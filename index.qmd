@@ -1,5 +1,5 @@
-# Welcome to CTCH 204, Introduction to Creative Coding!
+# Welcome to CTCH 301, Play!
 
 ## Lecture Slides
 
-* [Sept 5: Syllabus, p5.js, shapes, colors](/getting-started)
+* [Gesture/Utterance as Data](/welcome)

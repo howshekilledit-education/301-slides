@@ -1,6 +1,6 @@
 
 ---
-title: "Welcome to 204"
+title: "Gesture/Utterance as Data"
 format:
   revealjs:
     theme: 
@@ -12,46 +12,53 @@ format:
       <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 
 sansfont: "Josefin Sans"
-mainfont: "Baskerville"
 ---
 
-# Icebreaker Activity
+# Sign the attendance sheet
 
-Complete the **Icebreaker: Summer Media** activity in UR Courses. 
-
-
-## Introductions
-
-Let's go around and introduce ourselves.
-
-* Your name
-* Your pronouns (if you want)
-* Talk a little bit about why you chose your piece of media
-* Your name again
-
-# Please keep the same seat for the next couple weeks! 
-
-## Cartesian Coordinates
-
-::: {.column width="30%"}
-![](https://i.pinimg.com/474x/de/4e/5a/de4e5a7ce009d1a3953ef4bb96110404.jpg)
-:::
+# How do we generate data from our bodies? 
 
 
-::: {.column width="70%"}
 
-<br>
+## Imogen Heap, Tiny Desk Concert
 
-Most graphical software uses a Cartesian coordinate system to define where things are on the screen.
-:::
+[![](image-20250906145135637.png)](https://docs.google.com/presentation/d/1ND0ZhNgD_93X0xu7f0eY4jAHHfVcpPqpI9GyaWLl1nM/edit?slide=id.g3886feb79b0_0_0#slide=id.g3886feb79b0_0_0)
+
+# [Vocal data may be enough to predict your portrait](https://speech2face.github.io/supplemental/index.html)
 
 
-## Next class
+## [Fungal Chapel]{.stlth_hd}
 
-<br>
+![](image-20250906145102773.png)
 
-Next class, we will have a syllabus quiz (you may reference the syllabus). This will be the *last quiz* where you can look at outside resources. After that, all quizzes will be closed book.
+[Gabrielle Cerberville, [*Fungal Chapel*](https://gabriellecerberville.com/fungal-chapel/), 2022]{.caption}
 
-<br>
+## [Second Self]{.stlth_hd}
 
-Make sure you bring a pen or pencil! (Note that you should bring a notebook and pen/pencil to every class.)
+{{< video https://vimeo.com/845294041 width = "720px" height = "480px" >}}
+[Myriam Bleau & Nien-Tzu Weng, *Second Self*, 2023]{.caption}
+
+# [Gao Yujie at Dunlop](https://urcourses.uregina.ca/mod/forum/discuss.php?d=1213281)
+
+
+
+
+## Icebreaker Introductions
+
+- Big Bunny
+- Name puns 
+
+
+
+## Vocal Sketch with TouchDesigner {.smaller}
+
+1. Get into groups of 3-5
+2. Using one person's laptop, download the sound-responsive TouchDesigner project from URCourses.
+3. Create a short audiovisual performance, where everyone in your group makes sounds to trigger the image on the screen. 
+4. You may also adjust the TouchDesigner project to bettert suit your performance. 
+5. We will share our performances at the end of class. You will use the proejctor to perform. 
+
+## Before you begin, discuss:
+
+- What is your performance about? 
+- What will it sound like? (Music? Theater? What genre? etc.)

@@ -25,7 +25,7 @@
     "href": "getting-started/index.html#entrance-ticket",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Entrance Ticket",
-    "text": "Entrance Ticket\nLook through your classmates’ links in Forum Response 1 | Shapes and Colors in UR Courses. If you notice anything that stands out to you, reply with a comment! Make sure you reply to at least on post.\n OPTIONAL: See if you can figure out which code created the effect you noticed, and include that code in your post."
+    "text": "Entrance Ticket\n\nLook through your classmates’ links in Forum Response 1 | Shapes and Colors in UR Courses.\nThere are a lot of the posts, so let’s split them up. If you are at the front of the room, look at posts at top; middle, middle; back, bottom.\nIf you notice anything that stands out to you, reply with a comment!\nMake sure you reply to at least on post by 10:10"
   },
   {
     "objectID": "getting-started/index.html#you-can-have-a-one-week-extension-on-one-of-your-first-two-projects.-otherwise-late-work-is-not-accepted.",
@@ -60,7 +60,7 @@
     "href": "getting-started/index.html#how-to-complete-quiz",
     "title": "Syllabus, Shapes, and Colors",
     "section": "How to Complete Quiz",
-    "text": "How to Complete Quiz\n\n\n\n\nOnly use the left column\nWrite your first and last name\nFill in the correct bubble completely!\n\nYou can reference the syllabus on UR Courses, or I have a few paper copies. This is the last quiz where you can reference outside materials."
+    "text": "How to Complete Quiz\n\n\n\n\nWrite your first and last name\nWrite today’s date, Sept. 4\nUse black/blue pen or pencil\nOnly use the left column\nFill in the correct bubble completely\nYou have twenty minutes\n\nYou can reference the syllabus on UR Courses, or I have a few paper copies.\nThis is the last quiz where you can reference outside materials."
   },
   {
     "objectID": "getting-started/index.html#p5.js-setup-draw",
@@ -100,16 +100,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome to CTCH 204, Introduction to Creative Coding!",
+    "title": "Welcome to CTCH 301, Play!",
     "section": "",
-    "text": "Sept 5: Syllabus, p5.js, shapes, colors"
+    "text": "Gesture/Utterance as Data"
   },
   {
     "objectID": "index.html#lecture-slides",
     "href": "index.html#lecture-slides",
-    "title": "Welcome to CTCH 204, Introduction to Creative Coding!",
+    "title": "Welcome to CTCH 301, Play!",
     "section": "",
-    "text": "Sept 5: Syllabus, p5.js, shapes, colors"
+    "text": "Gesture/Utterance as Data"
   },
   {
     "objectID": "getting-started/index.html#you-can-have-a-one-week-extension-on-one-of-your-first-two-projects.",
@@ -137,35 +137,35 @@
     "href": "getting-started/index.html#core-structure-setup",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Core Structure: setup()",
-    "text": "Core Structure: setup()\nfunction setup() {\n  // Runs once when program starts\n  createCanvas(400, 400);\n  background(220);\n}\n\nsetup() runs once at the beginning\nUse it to initialize your canvas and set initial conditions\nPerfect place for createCanvas() and one-time configurations"
+    "text": "Core Structure: setup()\nfunction setup() {\n  // Runs once when program starts\n  createCanvas(400, 400);\n  background(220);\n}\n\n\nsetup() runs once at the beginning\nUse it to initialize your canvas and set initial conditions\nPerfect place for createCanvas() and one-time configurations"
   },
   {
     "objectID": "getting-started/index.html#core-structure-draw",
     "href": "getting-started/index.html#core-structure-draw",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Core Structure: draw()",
-    "text": "Core Structure: draw()\nfunction draw() {\n  // Runs continuously, ~60 times per second\n  background(220);\n  ellipse(mouseX, mouseY, 50, 50);\n}\n\ndraw() runs continuously (like animation frames)\nDefault frame rate: 60 FPS\nUse for animations and interactive elements\nOften starts with background() to clear previous frame"
+    "text": "Core Structure: draw()\nfunction draw() {\n  // Runs continuously, ~60 times per second\n  background(220);\n  ellipse(mouseX, mouseY, 50, 50);\n}\n\n\ndraw() runs continuously (like animation frames)\nDefault frame rate: 60 FPS\nUse for animations and interactive elements\nOften starts with background() to clear previous frame"
   },
   {
     "objectID": "getting-started/index.html#createcanvas",
     "href": "getting-started/index.html#createcanvas",
     "title": "Syllabus, Shapes, and Colors",
     "section": "createCanvas()",
-    "text": "createCanvas()\nfunction setup() {\n  createCanvas(800, 600);    // width, height in pixels\n  createCanvas(400, 400);    // square canvas\n}\n\nCreates the drawing canvas\nFirst parameter: width in pixels\nSecond parameter: height in pixels\nUsually called once in setup()\nDefault size: 100x100 if not specified"
+    "text": "createCanvas()\nfunction setup() {\n  createCanvas(800, 600);    // width, height in pixels\n  createCanvas(400, 400);    // square canvas\n}\n\n\nCreates the drawing canvas\nFirst parameter: width in pixels\nSecond parameter: height in pixels\nUsually called once in setup()\nDefault size: 100x100 if not specified"
   },
   {
     "objectID": "getting-started/index.html#drawing-basic-shapes-rect",
     "href": "getting-started/index.html#drawing-basic-shapes-rect",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Drawing Basic Shapes: rect()",
-    "text": "Drawing Basic Shapes: rect()\nfunction setup() {\n  createCanvas(400, 400);\n  rect(50, 50, 100, 75);     // x, y, width, height\n  rect(200, 200, 80, 80);    // square rectangle\n}\n\nrect(x, y, width, height)\nx, y: top-left corner position\nwidth: horizontal size\nheight: vertical size\nCoordinate system: (0,0) is top-left corner"
+    "text": "Drawing Basic Shapes: rect()\nfunction setup() {\n  createCanvas(400, 400);\n  rect(50, 50, 100, 75);     // x, y, width, height\n  rect(200, 200, 80, 80);    // square rectangle\n}\n\n\nrect(x, y, width, height)\nx, y: top-left corner position\nwidth: horizontal size\nheight: vertical size\nCoordinate system: (0,0) is top-left corner"
   },
   {
     "objectID": "getting-started/index.html#drawing-lines-line",
     "href": "getting-started/index.html#drawing-lines-line",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Drawing Lines: line()",
-    "text": "Drawing Lines: line()\nfunction setup() {\n  createCanvas(400, 400);\n  line(0, 0, 100, 100);      // x1, y1, x2, y2\n  line(50, 200, 350, 50);    // diagonal line\n}\n\nline(x1, y1, x2, y2)\nDraws a straight line between two points\nx1, y1: starting point\nx2, y2: ending point\nLine thickness controlled by strokeWeight()"
+    "text": "Drawing Lines: line()\nfunction setup() {\n  createCanvas(400, 400);\n  line(0, 0, 100, 100);      // x1, y1, x2, y2\n  line(50, 200, 350, 50);    // diagonal line\n}\n\n\nline(x1, y1, x2, y2)\nDraws a straight line between two points\nx1, y1: starting point\nx2, y2: ending point\nLine thickness controlled by strokeWeight()"
   },
   {
     "objectID": "getting-started/index.html#rectangle-drawing-modes-rectmode",
@@ -179,7 +179,7 @@
     "href": "getting-started/index.html#fill-colors-fill",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Fill Colors: fill()",
-    "text": "Fill Colors: fill()\nfunction setup() {\n  createCanvas(400, 400);\n  \n  fill(255, 0, 0);           // red\n  rect(50, 50, 100, 100);\n  \n  fill(0, 255, 0);           // green  \n  rect(200, 50, 100, 100);\n  \n  fill(0, 0, 255);           // blue\n  rect(50, 200, 100, 100);\n}\n\nfill() sets the interior color of shapes\nAffects all shapes drawn after it\nVarious formats: RGB, grayscale, hex codes"
+    "text": "Fill Colors: fill()\nfunction setup() {\n  createCanvas(400, 400);\n  \n  fill(255, 0, 0);           // red\n  rect(50, 50, 100, 100);\n  \n  fill(0, 255, 0);           // green  \n  rect(200, 50, 100, 100);\n  \n  fill(0, 0, 255);           // blue\n  rect(50, 200, 100, 100);\n}\n\n\nfill() sets the interior color of shapes\nAffects all shapes drawn after it\nVarious formats: RGB, grayscale, hex codes"
   },
   {
     "objectID": "getting-started/index.html#outline-colors-stroke",
@@ -193,14 +193,14 @@
     "href": "getting-started/index.html#understanding-rgb-colors",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Understanding RGB Colors",
-    "text": "Understanding RGB Colors\nfill(255, 0, 0);     // Pure Red\nfill(0, 255, 0);     // Pure Green  \nfill(0, 0, 255);     // Pure Blue\nfill(255, 255, 0);   // Yellow (Red + Green)\nfill(255, 0, 255);   // Magenta (Red + Blue)\nfill(0, 255, 255);   // Cyan (Green + Blue)\nfill(255, 255, 255); // White\nfill(0, 0, 0);       // Black\nfill(128, 128, 128); // Gray\n\nRed, Green, Blue values\nEach value: 0-255 (0 = none, 255 = maximum)\nMix values to create any color"
+    "text": "Understanding RGB Colors\nfill(255, 0, 0);     // Pure Red\nfill(0, 255, 0);     // Pure Green  \nfill(0, 0, 255);     // Pure Blue\nfill(255, 255, 0);   // Yellow (Red + Green)\nfill(255, 0, 255);   // Magenta (Red + Blue)\nfill(0, 255, 255);   // Cyan (Green + Blue)\nfill(255, 255, 255); // White\nfill(0, 0, 0);       // Black\nfill(128, 128, 128); // Gray\n\n\nRed, Green, Blue values\nEach value: 0-255 (0 = none, 255 = maximum)\nMix values to create any color"
   },
   {
     "objectID": "getting-started/index.html#rgb-color-system-explained",
     "href": "getting-started/index.html#rgb-color-system-explained",
     "title": "Syllabus, Shapes, and Colors",
     "section": "RGB Color System Explained",
-    "text": "RGB Color System Explained\n\nAdditive color model (light-based)\nEach pixel has red, green, and blue light components\n0: No light (dark/off)\n255: Maximum light (brightest)\nCombining all three at 255 = white light\nAll three at 0 = no light (black)"
+    "text": "RGB Color System Explained\n\n\nAdditive color model (light-based)\nEach pixel has red, green, and blue light components\n0: No light (dark/off)\n255: Maximum light (brightest)\nCombining all three at 255 = white light\nAll three at 0 = no light (black)"
   },
   {
     "objectID": "getting-started/index.html#complete-example",
@@ -214,7 +214,7 @@
     "href": "getting-started/index.html#key-takeaways",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Key Takeaways",
-    "text": "Key Takeaways\n\nsetup(): runs once, initialize your program\ndraw(): runs continuously, create animations\ncreateCanvas(): set your drawing area size\nrect() and line(): basic drawing commands\nfill() and stroke(): control colors\nrectMode(): change how rectangles are positioned\nRGB: mix red, green, blue values (0-255) for any color"
+    "text": "Key Takeaways\n\n\nsetup(): runs once, initialize your program\ndraw(): runs continuously, create animations\ncreateCanvas(): set your drawing area size\nrect() and line(): basic drawing commands\nfill() and stroke(): control colors\nrectMode(): change how rectangles are positioned\nRGB: mix red, green, blue values (0-255) for any color"
   },
   {
     "objectID": "getting-started/index.html#practice-ideas",
@@ -243,5 +243,75 @@
     "title": "Syllabus, Shapes, and Colors",
     "section": "Code along with me!",
     "text": "Code along with me!\n\nor take notes if you prefer"
+  },
+  {
+    "objectID": "getting-started/index.html#experience-levels-in-this-class-vary",
+    "href": "getting-started/index.html#experience-levels-in-this-class-vary",
+    "title": "Syllabus, Shapes, and Colors",
+    "section": "Experience levels in this class vary!",
+    "text": "Experience levels in this class vary!\nSome students in this class have ten years of coding experiencce. Others have none!\nTry not to judge yourself by what other students can do. It’s not a fair race if some started earlier than others."
+  },
+  {
+    "objectID": "welcome/index.html#sign-in",
+    "href": "welcome/index.html#sign-in",
+    "title": "Welcome to 204",
+    "section": "Sign In",
+    "text": "Sign In\nSign the attendance sheet"
+  },
+  {
+    "objectID": "welcome/index.html#second-self",
+    "href": "welcome/index.html#second-self",
+    "title": "Gesture/Utterance as Data",
+    "section": "Second Self",
+    "text": "Second Self\n\nMyriam Bleau & Nien-Tzu Weng, Second Self, 2023"
+  },
+  {
+    "objectID": "welcome/index.html#icebreaker-introductions",
+    "href": "welcome/index.html#icebreaker-introductions",
+    "title": "Gesture/Utterance as Data",
+    "section": "Icebreaker Introductions",
+    "text": "Icebreaker Introductions\n\nBig Bunny\nName puns"
+  },
+  {
+    "objectID": "welcome/index.html#imogen-heal",
+    "href": "welcome/index.html#imogen-heal",
+    "title": "Welcome to 204",
+    "section": "Imogen Heal",
+    "text": "Imogen Heal"
+  },
+  {
+    "objectID": "welcome/index.html#imogen-heap-tiny-desk-concert",
+    "href": "welcome/index.html#imogen-heap-tiny-desk-concert",
+    "title": "Gesture/Utterance as Data",
+    "section": "Imogen Heap, Tiny Desk Concert",
+    "text": "Imogen Heap, Tiny Desk Concert"
+  },
+  {
+    "objectID": "welcome/index.html#fungal-chapel",
+    "href": "welcome/index.html#fungal-chapel",
+    "title": "Gesture/Utterance as Data",
+    "section": "Fungal Chapel",
+    "text": "Fungal Chapel\n\nGabrielle Cerberville, Fungal Chapel, 2022"
+  },
+  {
+    "objectID": "welcome/index.html#the-depth-of-vocal-data",
+    "href": "welcome/index.html#the-depth-of-vocal-data",
+    "title": "Welcome to Play",
+    "section": "The depth of vocal data",
+    "text": "The depth of vocal data"
+  },
+  {
+    "objectID": "welcome/index.html#vocal-sketch-with-touchdesigner",
+    "href": "welcome/index.html#vocal-sketch-with-touchdesigner",
+    "title": "Gesture/Utterance as Data",
+    "section": "Vocal Sketch with TouchDesigner",
+    "text": "Vocal Sketch with TouchDesigner\n\nGet into groups of 3-5\nUsing one person’s laptop, download the sound-responsive TouchDesigner project from URCourses.\nCreate a short audiovisual performance, where everyone in your group makes sounds to trigger the image on the screen.\nYou may also adjust the TouchDesigner project to bettert suit your performance.\nWe will share our performances at the end of class. You will use the proejctor to perform."
+  },
+  {
+    "objectID": "welcome/index.html#before-you-begin-discuss",
+    "href": "welcome/index.html#before-you-begin-discuss",
+    "title": "Gesture/Utterance as Data",
+    "section": "Before you begin, discuss:",
+    "text": "Before you begin, discuss:\n\nWhat is your performance about?\nWhat will it sound like? (Music? Theater? What genre? etc.)"
   }
 ]
