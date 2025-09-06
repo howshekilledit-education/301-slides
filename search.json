@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to CTCH 301, Play!",
+    "section": "",
+    "text": "Gesture/Utterance as Data"
+  },
+  {
+    "objectID": "index.html#lecture-slides",
+    "href": "index.html#lecture-slides",
+    "title": "Welcome to CTCH 301, Play!",
+    "section": "",
+    "text": "Gesture/Utterance as Data"
+  },
+  {
     "objectID": "getting-started/index.html#entrance-ticket",
     "href": "getting-started/index.html#entrance-ticket",
     "title": "Syllabus, Shapes, and Colors",
@@ -74,35 +88,35 @@
     "href": "getting-started/index.html#core-structure-setup",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Core Structure: setup()",
-    "text": "Core Structure: setup()\nfunction setup() {\n  // Runs once when program starts\n  createCanvas(400, 400);\n  background(220);\n}\n\n\nsetup() runs once at the beginning\nUse it to initialize your canvas and set initial conditions\nPerfect place for createCanvas() and one-time configurations"
+    "text": "Core Structure: setup()\nfunction setup() {\n  // Runs once when program starts\n  createCanvas(400, 400);\n  background(220);\n}\n\nsetup() runs once at the beginning\nUse it to initialize your canvas and set initial conditions\nPerfect place for createCanvas() and one-time configurations"
   },
   {
     "objectID": "getting-started/index.html#core-structure-draw",
     "href": "getting-started/index.html#core-structure-draw",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Core Structure: draw()",
-    "text": "Core Structure: draw()\nfunction draw() {\n  // Runs continuously, ~60 times per second\n  background(220);\n  ellipse(mouseX, mouseY, 50, 50);\n}\n\n\ndraw() runs continuously (like animation frames)\nDefault frame rate: 60 FPS\nUse for animations and interactive elements\nOften starts with background() to clear previous frame"
+    "text": "Core Structure: draw()\nfunction draw() {\n  // Runs continuously, ~60 times per second\n  background(220);\n  ellipse(mouseX, mouseY, 50, 50);\n}\n\ndraw() runs continuously (like animation frames)\nDefault frame rate: 60 FPS\nUse for animations and interactive elements\nOften starts with background() to clear previous frame"
   },
   {
     "objectID": "getting-started/index.html#createcanvas",
     "href": "getting-started/index.html#createcanvas",
     "title": "Syllabus, Shapes, and Colors",
     "section": "createCanvas()",
-    "text": "createCanvas()\nfunction setup() {\n  createCanvas(800, 600);    // width, height in pixels\n  createCanvas(400, 400);    // square canvas\n}\n\n\nCreates the drawing canvas\nFirst parameter: width in pixels\nSecond parameter: height in pixels\nUsually called once in setup()\nDefault size: 100x100 if not specified"
+    "text": "createCanvas()\nfunction setup() {\n  createCanvas(800, 600);    // width, height in pixels\n  createCanvas(400, 400);    // square canvas\n}\n\nCreates the drawing canvas\nFirst parameter: width in pixels\nSecond parameter: height in pixels\nUsually called once in setup()\nDefault size: 100x100 if not specified"
   },
   {
     "objectID": "getting-started/index.html#drawing-basic-shapes-rect",
     "href": "getting-started/index.html#drawing-basic-shapes-rect",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Drawing Basic Shapes: rect()",
-    "text": "Drawing Basic Shapes: rect()\nfunction setup() {\n  createCanvas(400, 400);\n  rect(50, 50, 100, 75);     // x, y, width, height\n  rect(200, 200, 80, 80);    // square rectangle\n}\n\n\nrect(x, y, width, height)\nx, y: top-left corner position\nwidth: horizontal size\nheight: vertical size\nCoordinate system: (0,0) is top-left corner"
+    "text": "Drawing Basic Shapes: rect()\nfunction setup() {\n  createCanvas(400, 400);\n  rect(50, 50, 100, 75);     // x, y, width, height\n  rect(200, 200, 80, 80);    // square rectangle\n}\n\nrect(x, y, width, height)\nx, y: top-left corner position\nwidth: horizontal size\nheight: vertical size\nCoordinate system: (0,0) is top-left corner"
   },
   {
     "objectID": "getting-started/index.html#drawing-lines-line",
     "href": "getting-started/index.html#drawing-lines-line",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Drawing Lines: line()",
-    "text": "Drawing Lines: line()\nfunction setup() {\n  createCanvas(400, 400);\n  line(0, 0, 100, 100);      // x1, y1, x2, y2\n  line(50, 200, 350, 50);    // diagonal line\n}\n\n\nline(x1, y1, x2, y2)\nDraws a straight line between two points\nx1, y1: starting point\nx2, y2: ending point\nLine thickness controlled by strokeWeight()"
+    "text": "Drawing Lines: line()\nfunction setup() {\n  createCanvas(400, 400);\n  line(0, 0, 100, 100);      // x1, y1, x2, y2\n  line(50, 200, 350, 50);    // diagonal line\n}\n\nline(x1, y1, x2, y2)\nDraws a straight line between two points\nx1, y1: starting point\nx2, y2: ending point\nLine thickness controlled by strokeWeight()"
   },
   {
     "objectID": "getting-started/index.html#rectangle-drawing-modes-rectmode",
@@ -116,7 +130,7 @@
     "href": "getting-started/index.html#fill-colors-fill",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Fill Colors: fill()",
-    "text": "Fill Colors: fill()\nfunction setup() {\n  createCanvas(400, 400);\n  \n  fill(255, 0, 0);           // red\n  rect(50, 50, 100, 100);\n  \n  fill(0, 255, 0);           // green  \n  rect(200, 50, 100, 100);\n  \n  fill(0, 0, 255);           // blue\n  rect(50, 200, 100, 100);\n}\n\n\nfill() sets the interior color of shapes\nAffects all shapes drawn after it\nVarious formats: RGB, grayscale, hex codes"
+    "text": "Fill Colors: fill()\nfunction setup() {\n  createCanvas(400, 400);\n  \n  fill(255, 0, 0);           // red\n  rect(50, 50, 100, 100);\n  \n  fill(0, 255, 0);           // green  \n  rect(200, 50, 100, 100);\n  \n  fill(0, 0, 255);           // blue\n  rect(50, 200, 100, 100);\n}\n\nfill() sets the interior color of shapes\nAffects all shapes drawn after it\nVarious formats: RGB, grayscale, hex codes"
   },
   {
     "objectID": "getting-started/index.html#outline-colors-stroke",
@@ -130,14 +144,14 @@
     "href": "getting-started/index.html#understanding-rgb-colors",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Understanding RGB Colors",
-    "text": "Understanding RGB Colors\nfill(255, 0, 0);     // Pure Red\nfill(0, 255, 0);     // Pure Green  \nfill(0, 0, 255);     // Pure Blue\nfill(255, 255, 0);   // Yellow (Red + Green)\nfill(255, 0, 255);   // Magenta (Red + Blue)\nfill(0, 255, 255);   // Cyan (Green + Blue)\nfill(255, 255, 255); // White\nfill(0, 0, 0);       // Black\nfill(128, 128, 128); // Gray\n\n\nRed, Green, Blue values\nEach value: 0-255 (0 = none, 255 = maximum)\nMix values to create any color"
+    "text": "Understanding RGB Colors\nfill(255, 0, 0);     // Pure Red\nfill(0, 255, 0);     // Pure Green  \nfill(0, 0, 255);     // Pure Blue\nfill(255, 255, 0);   // Yellow (Red + Green)\nfill(255, 0, 255);   // Magenta (Red + Blue)\nfill(0, 255, 255);   // Cyan (Green + Blue)\nfill(255, 255, 255); // White\nfill(0, 0, 0);       // Black\nfill(128, 128, 128); // Gray\n\nRed, Green, Blue values\nEach value: 0-255 (0 = none, 255 = maximum)\nMix values to create any color"
   },
   {
     "objectID": "getting-started/index.html#rgb-color-system-explained",
     "href": "getting-started/index.html#rgb-color-system-explained",
     "title": "Syllabus, Shapes, and Colors",
     "section": "RGB Color System Explained",
-    "text": "RGB Color System Explained\n\n\nAdditive color model (light-based)\nEach pixel has red, green, and blue light components\n0: No light (dark/off)\n255: Maximum light (brightest)\nCombining all three at 255 = white light\nAll three at 0 = no light (black)"
+    "text": "RGB Color System Explained\n\nAdditive color model (light-based)\nEach pixel has red, green, and blue light components\n0: No light (dark/off)\n255: Maximum light (brightest)\nCombining all three at 255 = white light\nAll three at 0 = no light (black)"
   },
   {
     "objectID": "getting-started/index.html#rgba-transparency",
@@ -158,7 +172,7 @@
     "href": "getting-started/index.html#key-takeaways",
     "title": "Syllabus, Shapes, and Colors",
     "section": "Key Takeaways",
-    "text": "Key Takeaways\n\n\nsetup(): runs once, initialize your program\ndraw(): runs continuously, create animations\ncreateCanvas(): set your drawing area size\nrect() and line(): basic drawing commands\nfill() and stroke(): control colors\nrectMode(): change how rectangles are positioned\nRGB: mix red, green, blue values (0-255) for any color"
+    "text": "Key Takeaways\n\nsetup(): runs once, initialize your program\ndraw(): runs continuously, create animations\ncreateCanvas(): set your drawing area size\nrect() and line(): basic drawing commands\nfill() and stroke(): control colors\nrectMode(): change how rectangles are positioned\nRGB: mix red, green, blue values (0-255) for any color"
   },
   {
     "objectID": "getting-started/index.html#resources",
@@ -193,7 +207,7 @@
     "href": "welcome/index.html#second-self",
     "title": "Gesture/Utterance as Data",
     "section": "Second Self",
-    "text": "Second Self\n\nMyriam Bleau & Nien-Tzu Weng, Second Self, 2023"
+    "text": "Second Self\n Myriam Bleau & Nien-Tzu Weng, Second Self, 2023"
   },
   {
     "objectID": "welcome/index.html#icebreaker-introductions",
@@ -207,7 +221,7 @@
     "href": "welcome/index.html#vocal-sketch-with-touchdesigner",
     "title": "Gesture/Utterance as Data",
     "section": "Vocal Sketch with TouchDesigner",
-    "text": "Vocal Sketch with TouchDesigner\n\nGet into groups of 3-5\nUsing one person’s laptop, download the sound-responsive TouchDesigner project from URCourses.\nCreate a short audiovisual performance, where everyone in your group makes sounds to trigger the image on the screen.\nYou may also adjust the TouchDesigner project to bettert suit your performance.\nWe will share our performances at the end of class. You will use the proejctor to perform."
+    "text": "Vocal Sketch with TouchDesigner\n\nGet into groups of 3-5\nUsing one person’s laptop, download the sound-responsive TouchDesigner project from URCourses.\nCreate a short audiovisual performance, where everyone in your group makes sounds to trigger the image on the screen.\nYou may also adjust the TouchDesigner project to bettert suit your performance.\nWe will share our performances at the end of class. Each group will use the projector to perform."
   },
   {
     "objectID": "welcome/index.html#before-you-begin-discuss",
@@ -217,24 +231,17 @@
     "text": "Before you begin, discuss:\n\nWhat is your performance about?\nWhat will it sound like? (Music? Theater? What genre? etc.)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to CTCH 301, Play!",
-    "section": "",
-    "text": "Gesture/Utterance as Data"
-  },
-  {
-    "objectID": "index.html#lecture-slides",
-    "href": "index.html#lecture-slides",
-    "title": "Welcome to CTCH 301, Play!",
-    "section": "",
-    "text": "Gesture/Utterance as Data"
+    "objectID": "welcome/index.html#exit-ticket",
+    "href": "welcome/index.html#exit-ticket",
+    "title": "Gesture/Utterance as Data",
+    "section": "Exit Ticket",
+    "text": "Exit Ticket\nIn your notebook, write a brief reflection on something important or memorable from today’s class. Show your professor on your way out, and remind them of your name!"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "CTCH 301 | Play",
     "section": "",
-    "text": "\u001a:q— title: “About”\n\nAbout this site"
+    "text": "\u001a:q— title: “About” —\nAbout this site"
   }
 ]
