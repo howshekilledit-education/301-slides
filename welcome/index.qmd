@@ -24,7 +24,7 @@ sansfont: "Josefin Sans"
 
 [![](image-20250906145135637.png)](https://docs.google.com/presentation/d/1ND0ZhNgD_93X0xu7f0eY4jAHHfVcpPqpI9GyaWLl1nM/edit?slide=id.g3886feb79b0_0_0#slide=id.g3886feb79b0_0_0)
 
-# [Vocal data may be enough to predict your portrait](https://speech2face.github.io/supplemental/index.html)
+# [Vocal data can be used to approximate your face](https://speech2face.github.io/supplemental/index.html)
 
 
 ## [Fungal Chapel]{.stlth_hd}
