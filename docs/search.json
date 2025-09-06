@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "welcome/index.html#introductions",
-    "href": "welcome/index.html#introductions",
-    "title": "Welcome to 204",
-    "section": "Introductions",
-    "text": "Introductions\nLet’s go around and introduce ourselves.\n\nYour name\nYour pronouns (if you want)\nTalk a little bit about why you chose your piece of media\nYour name again"
-  },
-  {
-    "objectID": "welcome/index.html#cartesian-coordinates",
-    "href": "welcome/index.html#cartesian-coordinates",
-    "title": "Welcome to 204",
-    "section": "Cartesian Coordinates",
-    "text": "Cartesian Coordinates\n\n\n\n\nMost graphical software uses a Cartesian coordinate system to define where things are on the screen."
-  },
-  {
-    "objectID": "welcome/index.html#next-class",
-    "href": "welcome/index.html#next-class",
-    "title": "Welcome to 204",
-    "section": "Next class",
-    "text": "Next class\n\nNext class, we will have a syllabus quiz (you may reference the syllabus). This will be the last quiz where you can look at outside resources. After that, all quizzes will be closed book.\n\nMake sure you bring a pen or pencil! (Note that you should bring a notebook and pen/pencil to every class.)"
-  },
-  {
     "objectID": "getting-started/index.html#entrance-ticket",
     "href": "getting-started/index.html#entrance-ticket",
     "title": "Syllabus, Shapes, and Colors",
@@ -28,11 +7,18 @@
     "text": "Entrance Ticket\n\nLook through your classmates’ links in Forum Response 1 | Shapes and Colors in UR Courses.\nThere are a lot of the posts, so let’s split them up. If you are at the front of the room, look at posts at top; middle, middle; back, bottom.\nIf you notice anything that stands out to you, reply with a comment!\nMake sure you reply to at least on post by 10:10"
   },
   {
-    "objectID": "getting-started/index.html#you-can-have-a-one-week-extension-on-one-of-your-first-two-projects.-otherwise-late-work-is-not-accepted.",
-    "href": "getting-started/index.html#you-can-have-a-one-week-extension-on-one-of-your-first-two-projects.-otherwise-late-work-is-not-accepted.",
-    "title": "Getting Started",
-    "section": "You can have a one-week extension on ONE of your first two projects. Otherwise, late work is not accepted.",
-    "text": "You can have a one-week extension on ONE of your first two projects. Otherwise, late work is not accepted."
+    "objectID": "getting-started/index.html#experience-levels-in-this-class-vary",
+    "href": "getting-started/index.html#experience-levels-in-this-class-vary",
+    "title": "Syllabus, Shapes, and Colors",
+    "section": "Experience levels in this class vary!",
+    "text": "Experience levels in this class vary!\nSome students in this class have ten years of coding experiencce. Others have none!\nTry not to judge yourself by what other students can do. It’s not a fair race if some started earlier than others."
+  },
+  {
+    "objectID": "getting-started/index.html#you-can-have-a-one-week-extension-on-one-of-your-first-two-projects.",
+    "href": "getting-started/index.html#you-can-have-a-one-week-extension-on-one-of-your-first-two-projects.",
+    "title": "Syllabus, Shapes, and Colors",
+    "section": "You can have a one-week extension on ONE of your first two projects.",
+    "text": "You can have a one-week extension on ONE of your first two projects.\nOtherwise, late work is not accepted."
   },
   {
     "objectID": "getting-started/index.html#if-average-grade-is-too-high-everyone-might-have-their-grade-reduced.",
@@ -40,13 +26,6 @@
     "title": "Syllabus, Shapes, and Colors",
     "section": "If average grade is too high, everyone might have their grade reduced.",
     "text": "If average grade is too high, everyone might have their grade reduced.\nThe average grade should be around 70% to avoid a downward curve. Please adjust your grade expecations accordingly."
-  },
-  {
-    "objectID": "getting-started/index.html#you-should-not-come-to-class-if-you-are-sick.-you-should-always-come-to-class-if-you-are-well-and-able.",
-    "href": "getting-started/index.html#you-should-not-come-to-class-if-you-are-sick.-you-should-always-come-to-class-if-you-are-well-and-able.",
-    "title": "Getting Started",
-    "section": "You should not come to class if you are sick. You should always come to class if you are well and able.",
-    "text": "You should not come to class if you are sick. You should always come to class if you are well and able."
   },
   {
     "objectID": "getting-started/index.html#participation-is-an-important-part-of-your-grade.",
@@ -63,11 +42,18 @@
     "text": "How to Complete Quiz\n\n\n\n\nWrite your first and last name\nWrite today’s date, Sept. 4\nUse black/blue pen or pencil\nOnly use the left column\nFill in the correct bubble completely\nYou have twenty minutes\n\nYou can reference the syllabus on UR Courses, or I have a few paper copies.\nThis is the last quiz where you can reference outside materials."
   },
   {
-    "objectID": "getting-started/index.html#p5.js-setup-draw",
-    "href": "getting-started/index.html#p5.js-setup-draw",
+    "objectID": "getting-started/index.html#whats-on-the-quiz-vs.-whats-in-class",
+    "href": "getting-started/index.html#whats-on-the-quiz-vs.-whats-in-class",
     "title": "Syllabus, Shapes, and Colors",
-    "section": "p5.js setup() & draw()",
-    "text": "p5.js setup() & draw()\n// &lt;-- Variables you might access throughout your project goe on top. \n// Everything else should go {INSIDE A FUNCTION}\n\nfunction setup(){\n\n    // &lt;-- Instructions in here execute AT THE START\n\n}\n\nfunction draw(){\n\n    // &lt;-- Instructions in here execute next, \n    // either over and over on a loop (default), \n    // or just once (if noLoop() is called)\n\n}"
+    "section": "What’s on the Quiz vs. What’s in Class",
+    "text": "What’s on the Quiz vs. What’s in Class\nSlides and Coding Train tutorials will include the material you need to know for the next quiz.\nDemos will cover quiz material and may preview more advanced material."
+  },
+  {
+    "objectID": "getting-started/index.html#what-is-p5.js",
+    "href": "getting-started/index.html#what-is-p5.js",
+    "title": "Syllabus, Shapes, and Colors",
+    "section": "What is p5.js?",
+    "text": "What is p5.js?\n\nA JavaScript library for creative coding\nMakes coding accessible for artists, designers, and beginners\nBased on Processing programming language\nRuns in web browsers"
   },
   {
     "objectID": "getting-started/index.html#section",
@@ -77,60 +63,11 @@
     "text": "() {} []\nParentheses ()\nCurly braces {}\nSquare brackets []\n^These always come in pairs!"
   },
   {
-    "objectID": "getting-started/index.html#coordinate-systems",
-    "href": "getting-started/index.html#coordinate-systems",
+    "objectID": "getting-started/index.html#p5.js-setup-draw",
+    "href": "getting-started/index.html#p5.js-setup-draw",
     "title": "Syllabus, Shapes, and Colors",
-    "section": "Coordinate Systems",
-    "text": "Coordinate Systems\n\nAdrian Piper, Charted Work Proposal for January – December 1969, 1968. Typescript and graph paper with space/time coordinate diagrams under sheet protectors in ring binder"
-  },
-  {
-    "objectID": "getting-started/index.html#whats-on-the-quiz-vs.-whats-in-class",
-    "href": "getting-started/index.html#whats-on-the-quiz-vs.-whats-in-class",
-    "title": "Syllabus, Shapes, and Colors",
-    "section": "What’s on the Quiz vs. What’s in Class",
-    "text": "What’s on the Quiz vs. What’s in Class\nSlides and Coding Train tutorials will include the material you need to know for the next quiz.\nDemos will cover quiz material and may preview more advanced material."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "CTCH 204 | Intro to Creative Coding",
-    "section": "",
-    "text": "\u001a:q— title: “About” —\nAbout this site"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to CTCH 301, Play!",
-    "section": "",
-    "text": "Gesture/Utterance as Data"
-  },
-  {
-    "objectID": "index.html#lecture-slides",
-    "href": "index.html#lecture-slides",
-    "title": "Welcome to CTCH 301, Play!",
-    "section": "",
-    "text": "Gesture/Utterance as Data"
-  },
-  {
-    "objectID": "getting-started/index.html#you-can-have-a-one-week-extension-on-one-of-your-first-two-projects.",
-    "href": "getting-started/index.html#you-can-have-a-one-week-extension-on-one-of-your-first-two-projects.",
-    "title": "Syllabus, Shapes, and Colors",
-    "section": "You can have a one-week extension on ONE of your first two projects.",
-    "text": "You can have a one-week extension on ONE of your first two projects.\nOtherwise, late work is not accepted."
-  },
-  {
-    "objectID": "getting-started/index.html#you-should-not-come-to-class-if-you-are-sick.",
-    "href": "getting-started/index.html#you-should-not-come-to-class-if-you-are-sick.",
-    "title": "Getting Started",
-    "section": "You should not come to class if you are sick.",
-    "text": "You should not come to class if you are sick.\nYou should always come to class if you are well and able."
-  },
-  {
-    "objectID": "getting-started/index.html#what-is-p5.js",
-    "href": "getting-started/index.html#what-is-p5.js",
-    "title": "Syllabus, Shapes, and Colors",
-    "section": "What is p5.js?",
-    "text": "What is p5.js?\n\nA JavaScript library for creative coding\nMakes coding accessible for artists, designers, and beginners\nBased on Processing programming language\nRuns in web browsers"
+    "section": "p5.js setup() & draw()",
+    "text": "p5.js setup() & draw()\n// &lt;-- Variables you might access throughout your project goe on top. \n// Everything else should go {INSIDE A FUNCTION}\n\nfunction setup(){\n\n    // &lt;-- Instructions in here execute AT THE START\n\n}\n\nfunction draw(){\n\n    // &lt;-- Instructions in here execute next, \n    // either over and over on a loop (default), \n    // or just once (if noLoop() is called)\n\n}"
   },
   {
     "objectID": "getting-started/index.html#core-structure-setup",
@@ -203,34 +140,6 @@
     "text": "RGB Color System Explained\n\n\nAdditive color model (light-based)\nEach pixel has red, green, and blue light components\n0: No light (dark/off)\n255: Maximum light (brightest)\nCombining all three at 255 = white light\nAll three at 0 = no light (black)"
   },
   {
-    "objectID": "getting-started/index.html#complete-example",
-    "href": "getting-started/index.html#complete-example",
-    "title": "Basic p5.js Commands",
-    "section": "Complete Example",
-    "text": "Complete Example\nfunction setup() {\n  createCanvas(600, 400);\n  background(230);\n}\n\nfunction draw() {\n  // Red rectangle with blue border\n  fill(255, 100, 100);\n  stroke(0, 0, 255);\n  strokeWeight(3);\n  rect(50, 50, 150, 100);\n  \n  // Green line\n  stroke(0, 200, 0);\n  strokeWeight(5);\n  line(250, 50, 400, 150);\n  \n  // Interactive circle follows mouse\n  fill(255, 200, 0);\n  stroke(0);\n  strokeWeight(2);\n  ellipse(mouseX, mouseY, 40, 40);\n}"
-  },
-  {
-    "objectID": "getting-started/index.html#key-takeaways",
-    "href": "getting-started/index.html#key-takeaways",
-    "title": "Syllabus, Shapes, and Colors",
-    "section": "Key Takeaways",
-    "text": "Key Takeaways\n\n\nsetup(): runs once, initialize your program\ndraw(): runs continuously, create animations\ncreateCanvas(): set your drawing area size\nrect() and line(): basic drawing commands\nfill() and stroke(): control colors\nrectMode(): change how rectangles are positioned\nRGB: mix red, green, blue values (0-255) for any color"
-  },
-  {
-    "objectID": "getting-started/index.html#practice-ideas",
-    "href": "getting-started/index.html#practice-ideas",
-    "title": "Getting Started",
-    "section": "Practice Ideas",
-    "text": "Practice Ideas\n\nCreate a house using rectangles and lines\nMake a traffic light with three colored circles\nDraw a rainbow using multiple colored rectangles\nCreate an interactive drawing that follows your mouse\nBuild a simple face using basic shapes"
-  },
-  {
-    "objectID": "getting-started/index.html#resources",
-    "href": "getting-started/index.html#resources",
-    "title": "Syllabus, Shapes, and Colors",
-    "section": "Resources",
-    "text": "Resources\n\np5.js Official Website\np5.js Reference\np5.js Web Editor"
-  },
-  {
     "objectID": "getting-started/index.html#rgba-transparency",
     "href": "getting-started/index.html#rgba-transparency",
     "title": "Syllabus, Shapes, and Colors",
@@ -245,39 +154,25 @@
     "text": "Code along with me!\n\nor take notes if you prefer"
   },
   {
-    "objectID": "getting-started/index.html#experience-levels-in-this-class-vary",
-    "href": "getting-started/index.html#experience-levels-in-this-class-vary",
+    "objectID": "getting-started/index.html#key-takeaways",
+    "href": "getting-started/index.html#key-takeaways",
     "title": "Syllabus, Shapes, and Colors",
-    "section": "Experience levels in this class vary!",
-    "text": "Experience levels in this class vary!\nSome students in this class have ten years of coding experiencce. Others have none!\nTry not to judge yourself by what other students can do. It’s not a fair race if some started earlier than others."
+    "section": "Key Takeaways",
+    "text": "Key Takeaways\n\n\nsetup(): runs once, initialize your program\ndraw(): runs continuously, create animations\ncreateCanvas(): set your drawing area size\nrect() and line(): basic drawing commands\nfill() and stroke(): control colors\nrectMode(): change how rectangles are positioned\nRGB: mix red, green, blue values (0-255) for any color"
   },
   {
-    "objectID": "welcome/index.html#sign-in",
-    "href": "welcome/index.html#sign-in",
-    "title": "Welcome to 204",
-    "section": "Sign In",
-    "text": "Sign In\nSign the attendance sheet"
+    "objectID": "getting-started/index.html#resources",
+    "href": "getting-started/index.html#resources",
+    "title": "Syllabus, Shapes, and Colors",
+    "section": "Resources",
+    "text": "Resources\n\np5.js Official Website\np5.js Reference\np5.js Web Editor"
   },
   {
-    "objectID": "welcome/index.html#second-self",
-    "href": "welcome/index.html#second-self",
-    "title": "Gesture/Utterance as Data",
-    "section": "Second Self",
-    "text": "Second Self\n\nMyriam Bleau & Nien-Tzu Weng, Second Self, 2023"
-  },
-  {
-    "objectID": "welcome/index.html#icebreaker-introductions",
-    "href": "welcome/index.html#icebreaker-introductions",
-    "title": "Gesture/Utterance as Data",
-    "section": "Icebreaker Introductions",
-    "text": "Icebreaker Introductions\n\nBig Bunny\nName puns"
-  },
-  {
-    "objectID": "welcome/index.html#imogen-heal",
-    "href": "welcome/index.html#imogen-heal",
-    "title": "Welcome to 204",
-    "section": "Imogen Heal",
-    "text": "Imogen Heal"
+    "objectID": "getting-started/index.html#coordinate-systems",
+    "href": "getting-started/index.html#coordinate-systems",
+    "title": "Syllabus, Shapes, and Colors",
+    "section": "Coordinate Systems",
+    "text": "Coordinate Systems\n\nAdrian Piper, Charted Work Proposal for January – December 1969, 1968. Typescript and graph paper with space/time coordinate diagrams under sheet protectors in ring binder"
   },
   {
     "objectID": "welcome/index.html#imogen-heap-tiny-desk-concert",
@@ -294,11 +189,18 @@
     "text": "Fungal Chapel\n\nGabrielle Cerberville, Fungal Chapel, 2022"
   },
   {
-    "objectID": "welcome/index.html#the-depth-of-vocal-data",
-    "href": "welcome/index.html#the-depth-of-vocal-data",
-    "title": "Welcome to Play",
-    "section": "The depth of vocal data",
-    "text": "The depth of vocal data"
+    "objectID": "welcome/index.html#second-self",
+    "href": "welcome/index.html#second-self",
+    "title": "Gesture/Utterance as Data",
+    "section": "Second Self",
+    "text": "Second Self\n\nMyriam Bleau & Nien-Tzu Weng, Second Self, 2023"
+  },
+  {
+    "objectID": "welcome/index.html#icebreaker-introductions",
+    "href": "welcome/index.html#icebreaker-introductions",
+    "title": "Gesture/Utterance as Data",
+    "section": "Icebreaker Introductions",
+    "text": "Icebreaker Introductions\n\nBig Bunny\nName puns"
   },
   {
     "objectID": "welcome/index.html#vocal-sketch-with-touchdesigner",
@@ -313,5 +215,26 @@
     "title": "Gesture/Utterance as Data",
     "section": "Before you begin, discuss:",
     "text": "Before you begin, discuss:\n\nWhat is your performance about?\nWhat will it sound like? (Music? Theater? What genre? etc.)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to CTCH 301, Play!",
+    "section": "",
+    "text": "Gesture/Utterance as Data"
+  },
+  {
+    "objectID": "index.html#lecture-slides",
+    "href": "index.html#lecture-slides",
+    "title": "Welcome to CTCH 301, Play!",
+    "section": "",
+    "text": "Gesture/Utterance as Data"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "CTCH 301 | Play",
+    "section": "",
+    "text": "\u001a:q— title: “About”\n\nAbout this site"
   }
 ]

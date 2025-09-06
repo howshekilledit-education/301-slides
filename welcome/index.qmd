@@ -56,9 +56,13 @@ sansfont: "Josefin Sans"
 2. Using one person's laptop, download the sound-responsive TouchDesigner project from URCourses.
 3. Create a short audiovisual performance, where everyone in your group makes sounds to trigger the image on the screen. 
 4. You may also adjust the TouchDesigner project to bettert suit your performance. 
-5. We will share our performances at the end of class. You will use the proejctor to perform. 
+5. We will share our performances at the end of class. Each group will use the projector to perform. 
 
 ## Before you begin, discuss:
 
 - What is your performance about? 
 - What will it sound like? (Music? Theater? What genre? etc.)
+
+## Exit Ticket
+
+In your notebook, write a brief reflection on something important or memorable from today's class. Show your professor on your way out, and remind them of your name!
