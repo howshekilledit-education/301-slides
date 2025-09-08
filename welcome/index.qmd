@@ -16,7 +16,6 @@ sansfont: "Josefin Sans"
 
 ## Entrance Ticket {.smaller}
 
-* Make sure you sign the attendance sheet.
 * Complete **In-class Exercises > Laptop Survey**
 * Look through your classmates' posts in **Forum Responses > Forum Response I** in UR Courses. 
 * If you notice anything that stands out to you, reply with a comment! 
