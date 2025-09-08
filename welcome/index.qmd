@@ -14,11 +14,15 @@ format:
 sansfont: "Josefin Sans"
 ---
 
-# Sign the attendance sheet
+## Entrance Ticket {.smaller}
+
+* Make sure you sign the attendance sheet.
+* Complete **In-class Exercises > Laptop Survey**
+* Look through your classmates' posts in **Forum Responses > Forum Response I** in UR Courses. 
+* If you notice anything that stands out to you, reply with a comment! 
+* **Reply to at least one post by 11:40**
 
 # How do we generate data from our bodies? 
-
-
 
 ## Imogen Heap, Tiny Desk Concert
 
@@ -55,7 +59,7 @@ sansfont: "Josefin Sans"
 1. Get into groups of 3-5
 2. Using one person's laptop, download the sound-responsive TouchDesigner project from URCourses.
 3. Create a short audiovisual performance, where everyone in your group makes sounds to trigger the image on the screen. 
-4. You may also adjust the TouchDesigner project to bettert suit your performance. 
+4. You may also adjust the TouchDesigner project to better suit your performance. 
 5. We will share our performances at the end of class. Each group will use the projector to perform. 
 
 ## Before you begin, discuss:
