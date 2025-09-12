@@ -1,1 +1,1 @@
-Sitemap: https://howshekilledit.github.io/301-slides/sitemap.xml
+Sitemap: https://howshekilledit-education.github.io/301-slides/sitemap.xml

@@ -1,17 +1,73 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome to CTCH 301, Play!",
-    "section": "",
-    "text": "Gesture/Utterance as Data"
+    "objectID": "quantitative/index.html#computer-access",
+    "href": "quantitative/index.html#computer-access",
+    "title": "Quantitative Aesthetics",
+    "section": "Computer Access",
+    "text": "Computer Access\nMaker Space and IMP Lab Hours\nTuesday 7-10pm Wednesday 1-7pm\nMap Computer Lab ED 440.2\nTo access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob."
   },
   {
-    "objectID": "index.html#lecture-slides",
-    "href": "index.html#lecture-slides",
-    "title": "Welcome to CTCH 301, Play!",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "CTCH 301 | Play",
     "section": "",
-    "text": "Gesture/Utterance as Data"
+    "text": "\u001a:q— title: “About” —\nAbout this site"
+  },
+  {
+    "objectID": "welcome/index.html#entrance-ticket",
+    "href": "welcome/index.html#entrance-ticket",
+    "title": "Gesture/Utterance as Data",
+    "section": "Entrance Ticket",
+    "text": "Entrance Ticket\n\nComplete In-class Exercises &gt; Laptop Survey\nLook through your classmates’ posts in Forum Responses &gt; Forum Response I in UR Courses.\nIf you notice anything that stands out to you, reply with a comment!\nReply to at least one post by 11:40"
+  },
+  {
+    "objectID": "welcome/index.html#imogen-heap-tiny-desk-concert",
+    "href": "welcome/index.html#imogen-heap-tiny-desk-concert",
+    "title": "Gesture/Utterance as Data",
+    "section": "Imogen Heap, Tiny Desk Concert",
+    "text": "Imogen Heap, Tiny Desk Concert"
+  },
+  {
+    "objectID": "welcome/index.html#fungal-chapel",
+    "href": "welcome/index.html#fungal-chapel",
+    "title": "Gesture/Utterance as Data",
+    "section": "Fungal Chapel",
+    "text": "Fungal Chapel\n\nGabrielle Cerberville, Fungal Chapel, 2022"
+  },
+  {
+    "objectID": "welcome/index.html#second-self",
+    "href": "welcome/index.html#second-self",
+    "title": "Gesture/Utterance as Data",
+    "section": "Second Self",
+    "text": "Second Self\n Myriam Bleau & Nien-Tzu Weng, Second Self, 2023"
+  },
+  {
+    "objectID": "welcome/index.html#icebreaker-introductions",
+    "href": "welcome/index.html#icebreaker-introductions",
+    "title": "Gesture/Utterance as Data",
+    "section": "Icebreaker Introductions",
+    "text": "Icebreaker Introductions\n\nBig Bunny\nName puns"
+  },
+  {
+    "objectID": "welcome/index.html#vocal-sketch-with-touchdesigner",
+    "href": "welcome/index.html#vocal-sketch-with-touchdesigner",
+    "title": "Gesture/Utterance as Data",
+    "section": "Vocal Sketch with TouchDesigner",
+    "text": "Vocal Sketch with TouchDesigner\n\nGet into groups of 3-5\nUsing one person’s laptop, download the sound-responsive TouchDesigner project from URCourses.\nCreate a short audiovisual performance, where everyone in your group makes sounds to trigger the image on the screen.\nYou may also adjust the TouchDesigner project to better suit your performance.\nWe will share our performances at the end of class. Each group will use the projector to perform."
+  },
+  {
+    "objectID": "welcome/index.html#before-you-begin-discuss",
+    "href": "welcome/index.html#before-you-begin-discuss",
+    "title": "Gesture/Utterance as Data",
+    "section": "Before you begin, discuss:",
+    "text": "Before you begin, discuss:\n\nWhat is your performance about?\nWhat will it sound like? (Music? Theater? What genre? etc.)"
+  },
+  {
+    "objectID": "welcome/index.html#exit-ticket",
+    "href": "welcome/index.html#exit-ticket",
+    "title": "Gesture/Utterance as Data",
+    "section": "Exit Ticket",
+    "text": "Exit Ticket\nIn your notebook, write a brief reflection on something important or memorable from today’s class. Show your professor on your way out, and remind them of your name!"
   },
   {
     "objectID": "getting-started/index.html#entrance-ticket",
@@ -189,66 +245,17 @@
     "text": "Coordinate Systems\n\nAdrian Piper, Charted Work Proposal for January – December 1969, 1968. Typescript and graph paper with space/time coordinate diagrams under sheet protectors in ring binder"
   },
   {
-    "objectID": "welcome/index.html#entrance-ticket",
-    "href": "welcome/index.html#entrance-ticket",
-    "title": "Gesture/Utterance as Data",
-    "section": "Entrance Ticket",
-    "text": "Entrance Ticket\n\nComplete In-class Exercises &gt; Laptop Survey\nLook through your classmates’ posts in Forum Responses &gt; Forum Response I in UR Courses.\nIf you notice anything that stands out to you, reply with a comment!\nReply to at least one post by 11:40"
-  },
-  {
-    "objectID": "welcome/index.html#imogen-heap-tiny-desk-concert",
-    "href": "welcome/index.html#imogen-heap-tiny-desk-concert",
-    "title": "Gesture/Utterance as Data",
-    "section": "Imogen Heap, Tiny Desk Concert",
-    "text": "Imogen Heap, Tiny Desk Concert"
-  },
-  {
-    "objectID": "welcome/index.html#fungal-chapel",
-    "href": "welcome/index.html#fungal-chapel",
-    "title": "Gesture/Utterance as Data",
-    "section": "Fungal Chapel",
-    "text": "Fungal Chapel\n\nGabrielle Cerberville, Fungal Chapel, 2022"
-  },
-  {
-    "objectID": "welcome/index.html#second-self",
-    "href": "welcome/index.html#second-self",
-    "title": "Gesture/Utterance as Data",
-    "section": "Second Self",
-    "text": "Second Self\n Myriam Bleau & Nien-Tzu Weng, Second Self, 2023"
-  },
-  {
-    "objectID": "welcome/index.html#icebreaker-introductions",
-    "href": "welcome/index.html#icebreaker-introductions",
-    "title": "Gesture/Utterance as Data",
-    "section": "Icebreaker Introductions",
-    "text": "Icebreaker Introductions\n\nBig Bunny\nName puns"
-  },
-  {
-    "objectID": "welcome/index.html#vocal-sketch-with-touchdesigner",
-    "href": "welcome/index.html#vocal-sketch-with-touchdesigner",
-    "title": "Gesture/Utterance as Data",
-    "section": "Vocal Sketch with TouchDesigner",
-    "text": "Vocal Sketch with TouchDesigner\n\nGet into groups of 3-5\nUsing one person’s laptop, download the sound-responsive TouchDesigner project from URCourses.\nCreate a short audiovisual performance, where everyone in your group makes sounds to trigger the image on the screen.\nYou may also adjust the TouchDesigner project to better suit your performance.\nWe will share our performances at the end of class. Each group will use the projector to perform."
-  },
-  {
-    "objectID": "welcome/index.html#before-you-begin-discuss",
-    "href": "welcome/index.html#before-you-begin-discuss",
-    "title": "Gesture/Utterance as Data",
-    "section": "Before you begin, discuss:",
-    "text": "Before you begin, discuss:\n\nWhat is your performance about?\nWhat will it sound like? (Music? Theater? What genre? etc.)"
-  },
-  {
-    "objectID": "welcome/index.html#exit-ticket",
-    "href": "welcome/index.html#exit-ticket",
-    "title": "Gesture/Utterance as Data",
-    "section": "Exit Ticket",
-    "text": "Exit Ticket\nIn your notebook, write a brief reflection on something important or memorable from today’s class. Show your professor on your way out, and remind them of your name!"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "CTCH 301 | Play",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to CTCH 301, Play!",
     "section": "",
-    "text": "\u001a:q— title: “About” —\nAbout this site"
+    "text": "Gesture/Utterance as Data"
+  },
+  {
+    "objectID": "index.html#lecture-slides",
+    "href": "index.html#lecture-slides",
+    "title": "Welcome to CTCH 301, Play!",
+    "section": "",
+    "text": "Gesture/Utterance as Data"
   }
 ]
