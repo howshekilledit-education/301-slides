@@ -19,7 +19,9 @@ sansfont: "Josefin Sans"
 
 ## Performance sharing will start in 20 minutes! 
 
-Remember your peformance should be 30-60 seconds long. 
+Remember your peformance should be 30-60 seconds long. Come up with a title!
+
+Say your name and the title of your performance before you begin.
 
 You will hook up your group's laptop to the projector and activate the TouchDesigner project live. 
 
