@@ -256,6 +256,90 @@
     "href": "quantitative/index.html#computer-access",
     "title": "Quantitative Aesthetics",
     "section": "Computer Access",
-    "text": "Computer Access\nMaker Space and IMP Lab Hours\nTuesday 7-10pm Wednesday 1-7pm\nMap Computer Lab ED 440.2\nTo access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob."
+    "text": "Computer Access\nMaker Space and IMP Lab Hours\nTuesday 7-10pm Wednesday 1-7pm\n\nMap Computer Lab ED 440.2\nTo access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob."
+  },
+  {
+    "objectID": "quantitative/index.html#performance-sharing-will-start-in-20-minutes",
+    "href": "quantitative/index.html#performance-sharing-will-start-in-20-minutes",
+    "title": "Quantitative Aesthetics",
+    "section": "Performance sharing will start in 20 minutes!",
+    "text": "Performance sharing will start in 20 minutes!\nRemember your peformance should be 30-60 seconds long.\nYou will hook up your group’s laptop to the projector and activate the TouchDesigner project live."
+  },
+  {
+    "objectID": "quantitative/index.html#touchdesigner-operators",
+    "href": "quantitative/index.html#touchdesigner-operators",
+    "title": "Quantitative Aesthetics",
+    "section": "TouchDesigner Operators",
+    "text": "TouchDesigner Operators\n\nTOPS: Texture Operators (image processing)\nCHOPS: Channel Operators (audio and control signals)\nSOPS: Surface Operators (3D geometry)\nCOMPS: Components (containers for networks)\nMATS: Materials (shaders and surface properties)\nDATS: Data Operators (tables and text data)"
+  },
+  {
+    "objectID": "quantitative/index.html#helpful-shortcuts",
+    "href": "quantitative/index.html#helpful-shortcuts",
+    "title": "Quantitative Aesthetics",
+    "section": "Helpful Shortcuts",
+    "text": "Helpful Shortcuts\n\nTab: Open operator menu\nSpacebar: Play/stop timeline\nF1: Enter Performance Mode\nEsc: Exit Performance Mode"
+  },
+  {
+    "objectID": "quantitative/index.html#todays-demo-chops",
+    "href": "quantitative/index.html#todays-demo-chops",
+    "title": "Quantitative Aesthetics",
+    "section": "Todays Demo CHOPs",
+    "text": "Todays Demo CHOPs\n\nAudio Device In CHOP: Capture audio input from microphone\nAudio Spectrum CHOP: Analyze audio frequencies\nMouseIn CHOP: Track mouse position\nMath CHOP: Perform mathematical operations on channels\nNull CHOP: Pass channels through without modification (lets you switch things out later)"
+  },
+  {
+    "objectID": "quantitative/index.html#todays-demo-tops-sops-and-comps",
+    "href": "quantitative/index.html#todays-demo-tops-sops-and-comps",
+    "title": "Quantitative Aesthetics",
+    "section": "Todays Demo TOPs SOPs and COMPs",
+    "text": "Todays Demo TOPs SOPs and COMPs\n\nBox SOP: Create a 3D box geometry\nGeo COMP: Container for 3D geometry\nCamera COMP: Define the viewpoint for rendering\nLight COMP: Add lighting to the 3D scene\nRender TOP: Render the 3D scene to a 2D image\nTransform TOP: Apply transformations to images, including background color"
+  },
+  {
+    "objectID": "quantitative/index.html#other-operators",
+    "href": "quantitative/index.html#other-operators",
+    "title": "Quantitative Aesthetics",
+    "section": "Other Operators",
+    "text": "Other Operators\n\nBox SOP: Create a 3D box geometry\nGeo COMP: Container for 3D geometry\nCamera COMP: Define the viewpoint for rendering\nLight COMP: Add lighting to the 3D scene\nRender TOP: Render the 3D scene to a 2D image\nTransform TOP: Apply transformations to images, including background color"
+  },
+  {
+    "objectID": "quantitative/index.html#project-1-requirements",
+    "href": "quantitative/index.html#project-1-requirements",
+    "title": "Quantitative Aesthetics",
+    "section": "Project 1 Requirements",
+    "text": "Project 1 Requirements\n\nUse input from your computer’s microphone and/or mouse to generate or manipulate visual content in real-time.\nThe project should run in TouchDesigner and be presented in Performance Mode.\nYou can activate it as a performance, or have it user-activated (e.g. by mouse movement or sound input).\nThe project should have a strong conceptual basis and/or be a well-reseearched exploration of a specific aesthetic or visual style"
+  },
+  {
+    "objectID": "quantitative/index.html#workshop-your-proposals",
+    "href": "quantitative/index.html#workshop-your-proposals",
+    "title": "Quantitative Aesthetics",
+    "section": "Workshop your proposals",
+    "text": "Workshop your proposals\n\nGet back into your performance groups.\nEach person should take 2-3 minutes to read their proposal for Project 1. Feel free to add additional details beyond what you wrote in your forum post.\nAfter each pitch, the rest of the group should provide feedback and suggestions on\n\nFeasibility\nProcess of making\nConceptual basis\nAesthetic or visual style\n\nFeedback should be respectful, but honest. Consider a compliment sandwich: positive feedback, constructive criticism, positive feedback.\nWrite down feedback as you will need to revise your proposal based on the feedback you receive."
+  },
+  {
+    "objectID": "quantitative/index.html#next-steps",
+    "href": "quantitative/index.html#next-steps",
+    "title": "Quantitative Aesthetics",
+    "section": "Next Steps",
+    "text": "Next Steps"
+  },
+  {
+    "objectID": "quantitative/index.html#free-writing",
+    "href": "quantitative/index.html#free-writing",
+    "title": "Quantitative Aesthetics",
+    "section": "Free Writing",
+    "text": "Free Writing\nSpend five minutes free writing about your project proposal in your notebook (computer closed)."
+  },
+  {
+    "objectID": "quantitative/index.html#revised-proposal",
+    "href": "quantitative/index.html#revised-proposal",
+    "title": "Quantitative Aesthetics",
+    "section": "Revised Proposal",
+    "text": "Revised Proposal\nWITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. It should fill at least half a page."
+  },
+  {
+    "objectID": "quantitative/index.html#exit-ticket",
+    "href": "quantitative/index.html#exit-ticket",
+    "title": "Quantitative Aesthetics",
+    "section": "Exit Ticket",
+    "text": "Exit Ticket\nTurn in a photo of your notebook proposal on UR Courses, under In-class Exercises &gt; Project 1 Proposal Revision."
   }
 ]

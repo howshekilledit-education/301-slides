@@ -15,6 +15,14 @@ sansfont: "Josefin Sans"
 
 # We will begin with a warmup, standing in a circle!
 
+---
+
+## Performance sharing will start in 20 minutes! 
+
+Remember your peformance should be 30-60 seconds long. 
+
+You will hook up your group's laptop to the projector and activate the TouchDesigner project live. 
+
 --- 
 
 # Forum Requirements + Deadlines are not Flexible
@@ -23,14 +31,125 @@ sansfont: "Josefin Sans"
 
 ## Computer Access
 
-### Maker Space and IMP Lab Hours
+***Maker Space and IMP Lab Hours***
 
 Tuesday 7-10pm
 Wednesday 1-7pm
 
-### Map Computer Lab ED 440.2
+<br>
+
+***Map Computer Lab ED 440.2***
 
 To access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob.
 
 
+---
+
+![[Samson Young](https://smartmuseum.uchicago.edu/exhibitions/samson-young/), *Support Structure*, 2019, 3D-printed PLA, resin. Photo by Michael Tropea](https://d3qi0qp55mx5f5.cloudfront.net/smartmuseum/i/artwork/Samson-Young-Smart-Installation-019.jpg?mtime=1570033893)
+
+---
+
+![Kate Crawford and Vladan Joler, [*Calculating Empire*](https://calculatingempires.net/?pos=15135.77%2C12144.10%2C16.0122), 2023](https://images.squarespace-cdn.com/content/v1/52c9d908e4b0e87887310693/2f019acf-ccfc-4b61-b9fc-10d0cdceb697/Screenshot+2024-08-26+15.17.51.jpg?format=1500w)
+
+---
+
+![Hans Haacke, [*News*](https://docs.google.com/presentation/d/1ND0ZhNgD_93X0xu7f0eY4jAHHfVcpPqpI9GyaWLl1nM/edit?slide=id.g37ea3c3a6d1_0_0#slide=id.g37ea3c3a6d1_0_0), 1969/2008](https://d1hhug17qm51in.cloudfront.net/www-media/2018/08/25191723/2008.232_01_H02-Large-TIFF_4000-pixels-long-scaled.jpg)
+
+---
+
+# TouchDesigner, Basics
+
+---
+
+{{< video "https://vimeo.com/78493924?autoplay=1&muted=1&stream_id=Y2xpcHN8MTQ1MTg0NzB8aWQ6ZGVzY3xbXQ%3D%3D" width = "720px" height = "480px" >}}
+
+[Licht.Pfad Studio, Soundreactive Videomapping Installation]{.caption}
+
+---
+
+## TouchDesigner Operators
+
+- TOPS: Texture Operators (image processing)
+- CHOPS: Channel Operators (audio and control signals)
+- SOPS: Surface Operators (3D geometry)
+- COMPS: Components (containers for networks)
+- MATS: Materials (shaders and surface properties)
+- DATS: Data Operators (tables and text data)
+
+---
+
+## Helpful Shortcuts
+
+- Tab: Open operator menu
+- Spacebar: Play/stop timeline
+- F1: Enter Performance Mode
+- Esc: Exit Performance Mode
+
+---
+
+## Todays Demo CHOPs
+
+- Audio Device In CHOP: Capture audio input from microphone
+- Audio Spectrum CHOP: Analyze audio frequencies
+- MouseIn CHOP: Track mouse position
+- Math CHOP: Perform mathematical operations on channels
+- Null CHOP: Pass channels through without modification (lets you switch things out later)
+
+---
+
+## Other Operators
+
+- Box SOP: Create a 3D box geometry
+- Geo COMP: Container for 3D geometry
+- Camera COMP: Define the viewpoint for rendering
+- Light COMP: Add lighting to the 3D scene
+- Render TOP: Render the 3D scene to a 2D image
+- Transform TOP: Apply transformations to images, including background color
+
+
+# Short Demo
+
+
+# Project 1 Proposals
+
+---
+
+## Project 1 Requirements {.smaller}
+
+* Use input from your computer's microphone and/or mouse to generate or manipulate visual content in real-time.
+* The project should run in TouchDesigner and be presented in Performance Mode.
+* You can activate it as a performance, or have it user-activated (e.g. by mouse movement or sound input).
+* The project should have a strong conceptual basis and/or be a well-reseearched exploration of a specific aesthetic or visual style
+
+---
+
+## Workshop your proposals {.smaller}
+
+1. Get back into your performance groups. 
+2. Each person should take 2-3 minutes to read their proposal for Project 1. Feel free to add additional details beyond what you wrote in your forum post.
+3. After each pitch, the rest of the group should provide feedback and suggestions on 
+   * Feasibility
+   * Process of making
+   * Conceptual basis
+   * Aesthetic or visual style
+4. Feedback should be respectful, but honest. Consider a compliment sandwich: positive feedback, constructive criticism, positive feedback.
+5. Write down feedback as you will need to revise your proposal based on the feedback you receive.
+
+---
+
+## Free Writing
+
+Spend five minutes free writing about your project proposal in your notebook (computer closed). 
+
+---
+
+## Revised Proposal
+
+WITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. It should fill at least half a page. 
+
+---
+
+## Exit Ticket
+
+Turn in a photo of your notebook proposal on UR Courses, under **In-class Exercises > Project 1 Proposal Revision**.
 
