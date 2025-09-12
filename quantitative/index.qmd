@@ -1,0 +1,36 @@
+---
+title: "Quantitative Aesthetics"
+format:
+  revealjs:
+    theme: 
+      - dark
+    css: ../bl.css
+    header-includes: |
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+
+sansfont: "Josefin Sans"
+---
+
+# We will begin with a warmup, standing in a circle!
+
+--- 
+
+# Forum Requirements + Deadlines are not Flexible
+
+---
+
+## Computer Access
+
+### Maker Space and IMP Lab Hours
+
+Tuesday 7-10pm
+Wednesday 1-7pm
+
+### Map Computer Lab ED 440.2
+
+To access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob.
+
+
+
