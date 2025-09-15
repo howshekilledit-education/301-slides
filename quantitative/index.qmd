@@ -43,7 +43,7 @@ Wednesday 1-7pm
 
 To access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob.
 
-
+<!--
 ---
 
 ![[Samson Young](https://smartmuseum.uchicago.edu/exhibitions/samson-young/), *Support Structure*, 2019, 3D-printed PLA, resin. Photo by Michael Tropea](https://d3qi0qp55mx5f5.cloudfront.net/smartmuseum/i/artwork/Samson-Young-Smart-Installation-019.jpg?mtime=1570033893)
@@ -55,7 +55,7 @@ To access the MAP Computer Lab in ED 440.2, students will have to fill out the f
 ---
 
 ![Hans Haacke, [*News*](https://docs.google.com/presentation/d/1ND0ZhNgD_93X0xu7f0eY4jAHHfVcpPqpI9GyaWLl1nM/edit?slide=id.g37ea3c3a6d1_0_0#slide=id.g37ea3c3a6d1_0_0), 1969/2008](https://d1hhug17qm51in.cloudfront.net/www-media/2018/08/25191723/2008.232_01_H02-Large-TIFF_4000-pixels-long-scaled.jpg)
-
+-->
 ---
 
 # TouchDesigner, Basics
@@ -89,15 +89,16 @@ To access the MAP Computer Lab in ED 440.2, students will have to fill out the f
 ---
 
 ## Todays Demo CHOPs
-
+<!--
 - Audio Device In CHOP: Capture audio input from microphone
 - Audio Spectrum CHOP: Analyze audio frequencies
+-->
 - MouseIn CHOP: Track mouse position
 - Math CHOP: Perform mathematical operations on channels
 - Null CHOP: Pass channels through without modification (lets you switch things out later)
 
 ---
-
+<!--
 ## Other Operators
 
 - Box SOP: Create a 3D box geometry
@@ -107,7 +108,7 @@ To access the MAP Computer Lab in ED 440.2, students will have to fill out the f
 - Render TOP: Render the 3D scene to a 2D image
 - Transform TOP: Apply transformations to images, including background color
 
-
+-->
 # Short Demo
 
 
@@ -146,7 +147,9 @@ Spend five minutes free writing about your project proposal in your notebook (co
 
 ## Revised Proposal
 
-WITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. It should fill at least half a page. 
+WITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. The finished proposal should fill up at least half a notebook page. Take a photo of your notebook page to turn in on URCourses. 
+
+If you don't finish your revision by the end of class, turn it whatever you have in URCourses -> In-class Exercises -> Proposal Revision. 
 
 ---
 
