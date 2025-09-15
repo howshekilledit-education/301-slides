@@ -32,14 +32,7 @@
     "href": "quantitative/index.html#todays-demo-chops",
     "title": "Quantitative Aesthetics",
     "section": "Todays Demo CHOPs",
-    "text": "Todays Demo CHOPs\n\nAudio Device In CHOP: Capture audio input from microphone\nAudio Spectrum CHOP: Analyze audio frequencies\nMouseIn CHOP: Track mouse position\nMath CHOP: Perform mathematical operations on channels\nNull CHOP: Pass channels through without modification (lets you switch things out later)"
-  },
-  {
-    "objectID": "quantitative/index.html#other-operators",
-    "href": "quantitative/index.html#other-operators",
-    "title": "Quantitative Aesthetics",
-    "section": "Other Operators",
-    "text": "Other Operators\n\nBox SOP: Create a 3D box geometry\nGeo COMP: Container for 3D geometry\nCamera COMP: Define the viewpoint for rendering\nLight COMP: Add lighting to the 3D scene\nRender TOP: Render the 3D scene to a 2D image\nTransform TOP: Apply transformations to images, including background color"
+    "text": "Todays Demo CHOPs\n\nMouseIn CHOP: Track mouse position"
   },
   {
     "objectID": "quantitative/index.html#project-1-requirements",
@@ -67,7 +60,7 @@
     "href": "quantitative/index.html#revised-proposal",
     "title": "Quantitative Aesthetics",
     "section": "Revised Proposal",
-    "text": "Revised Proposal\nWITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. It should fill at least half a page."
+    "text": "Revised Proposal\nWITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. You may look at the notes in your notebook.\nThe finished proposal should fill up at least half a notebook page. Take a photo of your notebook page to turn in on URCourses."
   },
   {
     "objectID": "quantitative/index.html#exit-ticket",
@@ -319,13 +312,13 @@
     "href": "index.html",
     "title": "Welcome to CTCH 301, Play!",
     "section": "",
-    "text": "Gesture/Utterance as Data"
+    "text": "9/8 Gesture/Utterance as Data\n9/15 Quantiative Aesthetics"
   },
   {
     "objectID": "index.html#lecture-slides",
     "href": "index.html#lecture-slides",
     "title": "Welcome to CTCH 301, Play!",
     "section": "",
-    "text": "Gesture/Utterance as Data"
+    "text": "9/8 Gesture/Utterance as Data\n9/15 Quantiative Aesthetics"
   }
 ]
