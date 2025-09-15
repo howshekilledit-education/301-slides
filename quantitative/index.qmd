@@ -1,3 +1,4 @@
+
 ---
 title: "Quantitative Aesthetics"
 format:
@@ -11,6 +12,7 @@ format:
       <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 
 sansfont: "Josefin Sans"
+
 ---
 
 # We will begin with a warmup, standing in a circle!
@@ -39,23 +41,10 @@ Wednesday 1-7pm
 
 <br>
 
-***Map Computer Lab ED 440.2***
+***Map Computer Lab ED 440.2*** 
 
 To access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob.
 
-<!--
----
-
-![[Samson Young](https://smartmuseum.uchicago.edu/exhibitions/samson-young/), *Support Structure*, 2019, 3D-printed PLA, resin. Photo by Michael Tropea](https://d3qi0qp55mx5f5.cloudfront.net/smartmuseum/i/artwork/Samson-Young-Smart-Installation-019.jpg?mtime=1570033893)
-
----
-
-![Kate Crawford and Vladan Joler, [*Calculating Empire*](https://calculatingempires.net/?pos=15135.77%2C12144.10%2C16.0122), 2023](https://images.squarespace-cdn.com/content/v1/52c9d908e4b0e87887310693/2f019acf-ccfc-4b61-b9fc-10d0cdceb697/Screenshot+2024-08-26+15.17.51.jpg?format=1500w)
-
----
-
-![Hans Haacke, [*News*](https://docs.google.com/presentation/d/1ND0ZhNgD_93X0xu7f0eY4jAHHfVcpPqpI9GyaWLl1nM/edit?slide=id.g37ea3c3a6d1_0_0#slide=id.g37ea3c3a6d1_0_0), 1969/2008](https://d1hhug17qm51in.cloudfront.net/www-media/2018/08/25191723/2008.232_01_H02-Large-TIFF_4000-pixels-long-scaled.jpg)
--->
 ---
 
 # TouchDesigner, Basics
@@ -89,26 +78,8 @@ To access the MAP Computer Lab in ED 440.2, students will have to fill out the f
 ---
 
 ## Todays Demo CHOPs
-<!--
-- Audio Device In CHOP: Capture audio input from microphone
-- Audio Spectrum CHOP: Analyze audio frequencies
--->
+
 - MouseIn CHOP: Track mouse position
-- Math CHOP: Perform mathematical operations on channels
-- Null CHOP: Pass channels through without modification (lets you switch things out later)
-
----
-<!--
-## Other Operators
-
-- Box SOP: Create a 3D box geometry
-- Geo COMP: Container for 3D geometry
-- Camera COMP: Define the viewpoint for rendering
-- Light COMP: Add lighting to the 3D scene
-- Render TOP: Render the 3D scene to a 2D image
-- Transform TOP: Apply transformations to images, including background color
-
--->
 
 ---
 
@@ -153,8 +124,6 @@ Spend five minutes free writing about your project proposal in your notebook (co
 WITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. You may look at the notes in your notebook. 
 
 The finished proposal should fill up at least half a notebook page. Take a photo of your notebook page to turn in on URCourses. 
-
-If you don't finish your revision by the end of class, turn it whatever you have in URCourses -> In-class Exercises -> Proposal 1 Revision. 
 
 ---
 

@@ -284,7 +284,7 @@
     "href": "quantitative/index.html#todays-demo-chops",
     "title": "Quantitative Aesthetics",
     "section": "Todays Demo CHOPs",
-    "text": "Todays Demo CHOPs\n\nAudio Device In CHOP: Capture audio input from microphone\nAudio Spectrum CHOP: Analyze audio frequencies\nMouseIn CHOP: Track mouse position\nMath CHOP: Perform mathematical operations on channels\nNull CHOP: Pass channels through without modification (lets you switch things out later)"
+    "text": "Todays Demo CHOPs\n\nMouseIn CHOP: Track mouse position"
   },
   {
     "objectID": "quantitative/index.html#todays-demo-tops-sops-and-comps",
@@ -333,7 +333,7 @@
     "href": "quantitative/index.html#revised-proposal",
     "title": "Quantitative Aesthetics",
     "section": "Revised Proposal",
-    "text": "Revised Proposal\nWITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. It should fill at least half a page."
+    "text": "Revised Proposal\nWITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. You may look at the notes in your notebook.\nThe finished proposal should fill up at least half a notebook page. Take a photo of your notebook page to turn in on URCourses."
   },
   {
     "objectID": "quantitative/index.html#exit-ticket",
@@ -348,5 +348,12 @@
     "title": "Quantitative Aesthetics",
     "section": "Performances begin in 20 minutes!",
     "text": "Performances begin in 20 minutes!\n\nRemember your peformance should be 30-60 seconds long.\nCome up with a title!\nSay your names and the title of your performance before you begin.\nYou will hook up your group’s laptop to the projector and activate the TouchDesigner project live."
+  },
+  {
+    "objectID": "quantitative/index.html#to-access-the-map-computer-lab-in-ed-440.2-students-will-have-to-fill-out-the-form-take-it-to-the-map-art-store-show-their-student-id-and-purchase-the-fob.",
+    "href": "quantitative/index.html#to-access-the-map-computer-lab-in-ed-440.2-students-will-have-to-fill-out-the-form-take-it-to-the-map-art-store-show-their-student-id-and-purchase-the-fob.",
+    "title": "Quantitative Aesthetics",
+    "section": "To access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob.",
+    "text": "To access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob."
   }
 ]

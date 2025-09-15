@@ -2,4 +2,5 @@
 
 ## Lecture Slides
 
-* [Gesture/Utterance as Data](/welcome)
+* 9/8 [Gesture/Utterance as Data](/welcome)
+* 9/15 [Quantiative Aesthetics](/quantitative)
