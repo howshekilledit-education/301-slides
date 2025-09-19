@@ -203,6 +203,62 @@
     "text": "Coordinate Systems\n\nAdrian Piper, Charted Work Proposal for January – December 1969, 1968. Typescript and graph paper with space/time coordinate diagrams under sheet protectors in ring binder"
   },
   {
+    "objectID": "bodies/index.html#we-will-begin-with-a-warmup-standing-in-a-circle",
+    "href": "bodies/index.html#we-will-begin-with-a-warmup-standing-in-a-circle",
+    "title": "Bodies of Data",
+    "section": "We will begin with a warmup, standing in a circle!",
+    "text": "We will begin with a warmup, standing in a circle!\nWe will write a story together, one word at a time."
+  },
+  {
+    "objectID": "bodies/index.html#attendance-policy",
+    "href": "bodies/index.html#attendance-policy",
+    "title": "Bodies of Data",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nMissing more than two classes could lead to a 5% reduction in your final grade. Missing more than three classes could lead to an NP.\nYou should always come to class when you are well and able, so you can miss class if you are sick.\nSee syllabus for more details."
+  },
+  {
+    "objectID": "bodies/index.html#todays-demo-chops",
+    "href": "bodies/index.html#todays-demo-chops",
+    "title": "Bodies of Data",
+    "section": "Todays Demo CHOPs",
+    "text": "Todays Demo CHOPs\n\nAudio Device In CHOP: Capture audio input from microphone\nAudio Spectrum CHOP: Analyze audio frequencies\nMouseIn CHOP: Track mouse position\nMath CHOP: Perform mathematical operations on channels\nNull CHOP: Pass channels through without modification (lets you switch things out later)"
+  },
+  {
+    "objectID": "bodies/index.html#other-operators",
+    "href": "bodies/index.html#other-operators",
+    "title": "Bodies of Data",
+    "section": "Other Operators",
+    "text": "Other Operators\n\nBox SOP: Create a 3D box geometry\nGeo COMP: Container for 3D geometry\nCamera COMP: Define the viewpoint for rendering\nLight COMP: Add lighting to the 3D scene\nRender TOP: Render the 3D scene to a 2D image\nTransform TOP: Apply transformations to images, including background color"
+  },
+  {
+    "objectID": "bodies/index.html#work-in-progress-shares",
+    "href": "bodies/index.html#work-in-progress-shares",
+    "title": "Bodies of Data",
+    "section": "Work-in-Progress Shares",
+    "text": "Work-in-Progress Shares\nLet’s take a look at Forum Response III"
+  },
+  {
+    "objectID": "bodies/index.html#modes-of-critique",
+    "href": "bodies/index.html#modes-of-critique",
+    "title": "Bodies of Data",
+    "section": "Modes of Critique",
+    "text": "Modes of Critique\nThere are many ways to give and receive feedback, and to evaluate a piece of artwork.\nFor our Project 1 crits (starting next week), we will use the “cold read” method. You will show your work, and your classmates will respond to it without context or explanation from you."
+  },
+  {
+    "objectID": "bodies/index.html#draft-self-assessment-rubric-in-your-notebook",
+    "href": "bodies/index.html#draft-self-assessment-rubric-in-your-notebook",
+    "title": "Bodies of Data",
+    "section": "Draft Self-Assessment Rubric in Your Notebook",
+    "text": "Draft Self-Assessment Rubric in Your Notebook\nIn URCourses, follow the prompts under In-CLass Exercises &gt; Project 1 | Self-Evaluation Rubric.\nYou can work on Project 1 after you finish your rubric."
+  },
+  {
+    "objectID": "bodies/index.html#exit-ticket",
+    "href": "bodies/index.html#exit-ticket",
+    "title": "Bodies of Data",
+    "section": "Exit Ticket",
+    "text": "Exit Ticket\n\nIn your notebook, write a few sentences about what you learned today, and any questions you have.\nTurn in an image of your notebook page to URCourses &gt; In-class Exercieses &gt; 9/22 Exit Ticket."
+  },
+  {
     "objectID": "welcome/index.html#entrance-ticket",
     "href": "welcome/index.html#entrance-ticket",
     "title": "Gesture/Utterance as Data",
