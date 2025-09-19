@@ -221,14 +221,14 @@
     "href": "index.html",
     "title": "Welcome to CTCH 301, Play!",
     "section": "",
-    "text": "Gesture/Utterance as Data"
+    "text": "9/8 Gesture/Utterance as Data\n9/15 Quantiative Aesthetics"
   },
   {
     "objectID": "index.html#lecture-slides",
     "href": "index.html#lecture-slides",
     "title": "Welcome to CTCH 301, Play!",
     "section": "",
-    "text": "Gesture/Utterance as Data"
+    "text": "9/8 Gesture/Utterance as Data\n9/15 Quantiative Aesthetics"
   },
   {
     "objectID": "about.html",
@@ -355,5 +355,138 @@
     "title": "Quantitative Aesthetics",
     "section": "To access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob.",
     "text": "To access the MAP Computer Lab in ED 440.2, students will have to fill out the form, take it to the MAP Art Store, show their student id, and purchase the fob."
+  },
+  {
+    "objectID": "bodies/index.html#group-performance",
+    "href": "bodies/index.html#group-performance",
+    "title": "Bodies of Data",
+    "section": "Group Performance",
+    "text": "Group Performance"
+  },
+  {
+    "objectID": "bodies/index.html#attendance-policy",
+    "href": "bodies/index.html#attendance-policy",
+    "title": "Bodies of Data",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nMissing more than two classes could lead to a 5% reduction in your final grade. Missing more than three classes could lead to an NP.\nYou should always come to class when you are well and able, so you can miss class if you are sick.\nSee syllabus for more details."
+  },
+  {
+    "objectID": "bodies/index.html#todays-demo-chops",
+    "href": "bodies/index.html#todays-demo-chops",
+    "title": "Bodies of Data",
+    "section": "Todays Demo CHOPs",
+    "text": "Todays Demo CHOPs\n\nAudio Device In CHOP: Capture audio input from microphone\nAudio Spectrum CHOP: Analyze audio frequencies\nMouseIn CHOP: Track mouse position\nMath CHOP: Perform mathematical operations on channels\nNull CHOP: Pass channels through without modification (lets you switch things out later)"
+  },
+  {
+    "objectID": "bodies/index.html#other-operators",
+    "href": "bodies/index.html#other-operators",
+    "title": "Bodies of Data",
+    "section": "Other Operators",
+    "text": "Other Operators\n\nBox SOP: Create a 3D box geometry\nGeo COMP: Container for 3D geometry\nCamera COMP: Define the viewpoint for rendering\nLight COMP: Add lighting to the 3D scene\nRender TOP: Render the 3D scene to a 2D image\nTransform TOP: Apply transformations to images, including background color"
+  },
+  {
+    "objectID": "bodies/index.html#project-1-requirements",
+    "href": "bodies/index.html#project-1-requirements",
+    "title": "Bodies of Data",
+    "section": "Project 1 Requirements",
+    "text": "Project 1 Requirements\n\nUse input from your computer’s microphone and/or mouse to generate or manipulate visual content in real-time.\nThe project should run in TouchDesigner and be presented in Performance Mode.\nYou can activate it as a performance, or have it user-activated (e.g. by mouse movement or sound input).\nThe project should have a strong conceptual basis and/or be a well-reseearched exploration of a specific aesthetic or visual style"
+  },
+  {
+    "objectID": "bodies/index.html#workshop-your-proposals",
+    "href": "bodies/index.html#workshop-your-proposals",
+    "title": "Bodies of Data",
+    "section": "Workshop your proposals",
+    "text": "Workshop your proposals\n\nGet back into your performance groups.\nEach person should take 2-3 minutes to read their proposal for Project 1. Feel free to add additional details beyond what you wrote in your forum post.\nAfter each pitch, the rest of the group should provide feedback and suggestions on\n\nFeasibility\nProcess of making\nConceptual basis\nAesthetic or visual style\n\nFeedback should be respectful, but honest. Consider a compliment sandwich: positive feedback, constructive criticism, positive feedback.\nWrite down feedback as you will need to revise your proposal based on the feedback you receive."
+  },
+  {
+    "objectID": "bodies/index.html#free-writing",
+    "href": "bodies/index.html#free-writing",
+    "title": "Bodies of Data",
+    "section": "Free Writing",
+    "text": "Free Writing\nSpend five minutes free writing about your project proposal in your notebook (computer closed)."
+  },
+  {
+    "objectID": "bodies/index.html#revised-proposal",
+    "href": "bodies/index.html#revised-proposal",
+    "title": "Bodies of Data",
+    "section": "Revised Proposal",
+    "text": "Revised Proposal\nWITHOUT looking at your original proposal (computer closed), write a revised version of your proposal in your notebook. You may look at the notes in your notebook.\nThe finished proposal should fill up at least half a notebook page. Take a photo of your notebook page to turn in on URCourses."
+  },
+  {
+    "objectID": "bodies/index.html#exit-ticket",
+    "href": "bodies/index.html#exit-ticket",
+    "title": "Bodies of Data",
+    "section": "Exit Ticket",
+    "text": "Exit Ticket\n\nIn your notebook, write a few sentences about what you learned today, and any questions you have.\nTurn in an image of your notebook page to URCourses &gt; In-class Exercieses &gt; 9/22 Exit Ticket."
+  },
+  {
+    "objectID": "surplus.html#todays-demo-chops",
+    "href": "surplus.html#todays-demo-chops",
+    "title": "Surplus Slides",
+    "section": "Todays Demo CHOPs",
+    "text": "Todays Demo CHOPs\n\nAudio Device In CHOP: Capture audio input from microphone\nAudio Spectrum CHOP: Analyze audio frequencies\nMouseIn CHOP: Track mouse position\nMath CHOP: Perform mathematical operations on channels\nNull CHOP: Pass channels through without modification (lets you switch things out later)"
+  },
+  {
+    "objectID": "surplus.html#other-operators",
+    "href": "surplus.html#other-operators",
+    "title": "Surplus Slides",
+    "section": "Other Operators",
+    "text": "Other Operators\n\nBox SOP: Create a 3D box geometry\nGeo COMP: Container for 3D geometry\nCamera COMP: Define the viewpoint for rendering\nLight COMP: Add lighting to the 3D scene\nRender TOP: Render the 3D scene to a 2D image\nTransform TOP: Apply transformations to images, including background color"
+  },
+  {
+    "objectID": "bodies/index.html#modes-of-critique",
+    "href": "bodies/index.html#modes-of-critique",
+    "title": "Bodies of Data",
+    "section": "Modes of Critique",
+    "text": "Modes of Critique\nThere are many ways to give and receive feedback, and to evaluate a piece of artwork.\nFor our Project 1 crits (starting next week), we will use the “cold read” method. You will show your work, and your classmates will respond to it without context or explanation from you."
+  },
+  {
+    "objectID": "bodies/index.html#use-this-in-considering-how-you-will-evaluate-yourself.-what-feedback-would-indicate-success-for-you",
+    "href": "bodies/index.html#use-this-in-considering-how-you-will-evaluate-yourself.-what-feedback-would-indicate-success-for-you",
+    "title": "Bodies of Data",
+    "section": "Use this in considering how you will evaluate yourself. What feedback would indicate success for you?",
+    "text": "Use this in considering how you will evaluate yourself. What feedback would indicate success for you?\nNote that art is not always evaluated on the basis of artist’s intentions, but for this project, we are giving that a try."
+  },
+  {
+    "objectID": "bodies/index.html#what-feedback-would-indicate-success-for-you",
+    "href": "bodies/index.html#what-feedback-would-indicate-success-for-you",
+    "title": "Bodies of Data",
+    "section": "What feedback would indicate success for you?",
+    "text": "What feedback would indicate success for you?\nNote that art is not always evaluated on the basis of artist’s intentions, but for this project, we are giving that a try."
+  },
+  {
+    "objectID": "bodies/index.html#measures-of-success-feedback",
+    "href": "bodies/index.html#measures-of-success-feedback",
+    "title": "Bodies of Data",
+    "section": "Measures of Success | Feedback",
+    "text": "Measures of Success | Feedback\nDo you want your audience to have a specifc emotional response to your work? Do you want them to think about a particular idea? Should it remind them of a particular cultural reference or life experience?\nThink of TWO criteria that would indicate success for you. For example:\n\nThe audience feels a sense of calm and relaxation when they experience my work.\n\nThis should be criteria that you can evaluate on a scale from 1 (unsuccessful) to 5 (very successful)."
+  },
+  {
+    "objectID": "bodies/index.html#criteria-1-2-feedback",
+    "href": "bodies/index.html#criteria-1-2-feedback",
+    "title": "Bodies of Data",
+    "section": "Criteria 1 + 2 | Feedback",
+    "text": "Criteria 1 + 2 | Feedback\nDo you want your audience to have a specifc emotional response to your work? Do you want them to think about a particular idea? Should it remind them of a particular cultural reference or life experience?\nThink of TWO criteria that would indicate success for you. For example:\n\nThe audience feels a sense of calm and relaxation when they experience my work.\n\nThis should be criteria that you can evaluate on a scale from 1 (unsuccessful) to 5 (very successful)."
+  },
+  {
+    "objectID": "bodies/index.html#work-in-progress-shares",
+    "href": "bodies/index.html#work-in-progress-shares",
+    "title": "Bodies of Data",
+    "section": "Work-in-Progress Shares",
+    "text": "Work-in-Progress Shares\nLet’s take a look at Forum Response III"
+  },
+  {
+    "objectID": "bodies/index.html#draft-self-assessment-rubric-in-your-notebook",
+    "href": "bodies/index.html#draft-self-assessment-rubric-in-your-notebook",
+    "title": "Bodies of Data",
+    "section": "Draft Self-Assessment Rubric in Your Notebook",
+    "text": "Draft Self-Assessment Rubric in Your Notebook\nIn URCourses, follow the prompts under In-CLass Exercises &gt; Project 1 | Self-Evaluation Rubric.\nYou can work on Project 1 after you finish your rubric."
+  },
+  {
+    "objectID": "bodies/index.html#we-will-begin-with-a-warmup-standing-in-a-circle",
+    "href": "bodies/index.html#we-will-begin-with-a-warmup-standing-in-a-circle",
+    "title": "Bodies of Data",
+    "section": "We will begin with a warmup, standing in a circle!",
+    "text": "We will begin with a warmup, standing in a circle!\nWe will write a story together, one word at a time."
   }
 ]
