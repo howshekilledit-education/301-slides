@@ -15,11 +15,16 @@ sansfont: "Josefin Sans"
 
 ---
 
-## We will begin with a warmup, standing in a circle!
+# We will begin with a warmup, standing in a circle!
 
-We will write a story together, one word at a time. 
+## Welcome Question
 
----
+* Say your name
+* What is the best food you've eaten recently
+* Name one detail of that food that made it memorable
+* Say your name again
+
+# Rhythm Exercise
 
 # Group Performance 
 
