@@ -1,0 +1,79 @@
+
+---
+title: "Bodies of Data"
+format:
+  revealjs:
+    theme: 
+      - dark
+    css: ../bl.css
+    header-includes: |
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+
+sansfont: "Josefin Sans"
+
+---
+
+# We will begin with a warmup, standing in a circle!
+We will do a brief reprise of last week's clapping exercise, in an effort to get focused for crit. 
+
+## Before we begin crit, make sure your OneDrive folder has...
+
+* **been shared with morgan.harris.green@uregina.ca**
+* **a blank copy of your rubric**
+* your polished proposal
+* your works cited list 
+* your project 1 file and images
+
+Bolded items are essential before crit. Others should be added ASAP.
+
+If you present today, make sure you fill out your self-assessment rubric and add it to your OneDrive by Thursday night! 
+
+## Critique guidelines
+
+* Our goal is to complete half the class today, and half next week.
+* Each crit should last about ten minutes, including presentation and feedback.
+* For this crit, we will be doing "cold reads," meaning the artist will not give any explanation of their work before feedback.
+* You are welcome to ask the artist questions after their presentation.
+  ** What motivated a decision?
+  ** What technical choices achieved a particular effect?
+* Rather than talking about what is "good" or "bad," focus on what the artist's choices do.
+  ** For example: this choice effectively evokes this feeling
+  ** Or: this choice makes me think of this other work
+  ** Or: this choice makes me curious about this aspect of the work
+  ** Or: this choice makes me confused about this aspect of the work
+* Consider a feedback sandwich: start with an effective aspect of the work, then a suggestion for improvement, then another effective aspect of the work.
+
+# Project 2
+
+*Dimensional Data* You will make a project that responds to either
+* a data feed from the internet (weather, stock market, social media, etc)
+* live posture tracking from a web cam
+
+---
+
+![Hans Haacke, [*News*](https://docs.google.com/presentation/d/1ND0ZhNgD_93X0xu7f0eY4jAHHfVcpPqpI9GyaWLl1nM/edit?slide=id.g37ea3c3a6d1_0_0#slide=id.g37ea3c3a6d1_0_0), 1969/2008](https://d1hhug17qm51in.cloudfront.net/www-media/2018/08/25191723/2008.232_01_H02-Large-TIFF_4000-pixels-long-scaled.jpg)
+
+---
+
+![Ian Cheng, [*Bag of Beliefs (BOB)*](https://docs.google.com/presentation/d/1ND0ZhNgD_93X0xu7f0eY4jAHHfVcpPqpI9GyaWLl1nM/edit?slide=id.g381326e5160_0_6#slide=id.g381326e5160_0_6), 2019](https://static.frieze.com/files/inline-images/original_ae198a59b19d260c998624c96a13d215.jpg)
+
+---
+
+![[Daniel Rozin](https://www.wired.com/video/watch/obsessed-mechanical-mirrors), *Weave Mirror*, 2007](https://www.smoothware.com/danny/weavemirror.jpg)
+
+---
+
+
+
+## Draft Self-Assessment Rubric in Your Notebook
+
+In URCourses, follow the prompts under In-CLass Exercises > Project 1 | Self-Evaluation Rubric.
+
+You can work on Project 1 after you finish your rubric. 
+
+## Exit Ticket
+
+* In your notebook, write a few sentences about what you learned today, and any questions you have.
+* Turn in an image of your notebook page to URCourses > In-class Exercieses > 9/22 Exit Ticket.
