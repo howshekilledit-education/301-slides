@@ -1,6 +1,6 @@
 
 ---
-title: "Bodies of Data"
+title: "Body CHOP Critiques, Day 1"
 format:
   revealjs:
     theme: 
@@ -18,34 +18,40 @@ sansfont: "Josefin Sans"
 # We will begin with a warmup, standing in a circle!
 We will do a brief reprise of last week's clapping exercise, in an effort to get focused for crit. 
 
-## Before we begin crit, make sure your OneDrive folder has...
+## Before we begin crit, make sure your OneDrive folder has... {.smaller} 
 
-* **been shared with morgan.harris.green@uregina.ca**
-* **a blank copy of your rubric**
+* [been shared with morgan.harris.green@uregina.ca]{style="color: #ffcc00"}
+* [a blank copy of your rubric]{style="color: #ffcc00"}
+* [your project 1 .toe file]{style="color: #ffcc00"}
 * your polished proposal
 * your works cited list 
-* your project 1 file and images
+* your project 1 video recording
 
-Bolded items are essential before crit. Others should be added ASAP.
+[Gold]{style="color: #ffcc00"} items are essential BEFORE crit. 
 
-If you present today, make sure you fill out your self-assessment rubric and add it to your OneDrive by Thursday night! 
+## Sign up to present! 
 
-## Critique guidelines
+* Choose a presentation slot in **URCourses > In-Class Exercises > Project 1 Crit Sign-Up**.
+* If you do not sign up, you will be assigned a slot.
+* If you are ready to present today, please choose a slot from today if it is available. 
+* If you present today, make sure you fill out your self-assessment rubric and add it to your OneDrive by Thursday night! 
+
+## Critique guidelines {.smaller}
 
 * Our goal is to complete half the class today, and half next week.
 * Each crit should last about ten minutes, including presentation and feedback.
 * For this crit, we will be doing "cold reads," meaning the artist will not give any explanation of their work before feedback.
 * You are welcome to ask the artist questions after their presentation.
-  ** What motivated a decision?
-  ** What technical choices achieved a particular effect?
+  * What motivated a decision?
+  * What technical choices achieved a particular effect?
 * Rather than talking about what is "good" or "bad," focus on what the artist's choices do.
-  ** For example: this choice effectively evokes this feeling
-  ** Or: this choice makes me think of this other work
-  ** Or: this choice makes me curious about this aspect of the work
-  ** Or: this choice makes me confused about this aspect of the work
+  * For example: this choice effectively evokes this feeling
+  * Or: this choice makes me think of this other work
+  * Or: this choice makes me curious about this aspect of the work
+  * Or: this choice makes me confused about this aspect of the work
 * Consider a feedback sandwich: start with an effective aspect of the work, then a suggestion for improvement, then another effective aspect of the work.
 
-# Project 2
+# Project 2: Dimensional Data
 
 *Dimensional Data* You will make a project that responds to either
 * a data feed from the internet (weather, stock market, social media, etc)
@@ -66,14 +72,9 @@ If you present today, make sure you fill out your self-assessment rubric and add
 ---
 
 
-
-## Draft Self-Assessment Rubric in Your Notebook
-
-In URCourses, follow the prompts under In-CLass Exercises > Project 1 | Self-Evaluation Rubric.
-
-You can work on Project 1 after you finish your rubric. 
+## Brainstorm about Project 2
 
 ## Exit Ticket
 
-* In your notebook, write a few sentences about what you learned today, and any questions you have.
-* Turn in an image of your notebook page to URCourses > In-class Exercieses > 9/22 Exit Ticket.
+* In your notebook, write a few sentences about what you learned from today's crit.
+* Turn in an image of your notebook page to URCourses > In-class Exercieses > 9/29 Exit Ticket.
